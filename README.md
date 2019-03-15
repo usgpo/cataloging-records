@@ -14,6 +14,14 @@ The CGP on GitHub is a location where users may freely download record sets extr
 *  Newly created/updated brief Bib records:  2
 
 ###  5. A cumulative set of previously posted monthly record sets. This cumulative record set under the folder named "cataloging-records-previous-six-months" will be refreshed every six months.
-###  6. For further questions or help, contact Fang Gao <fgao@gpo.gov> or Stephen Kharfen <skharfen@gpo.gov>.   
 
+## National Institute of Standards and Technology (NIST) Collection
+The entire NIST Collection contains nearly 10,000 records in 13 series/SuDoc stems. The NIST records were ingested into FDsys, now govinfo, in 2016. LSCM will release groups of records by monographic series and Superintedent of Documents classification (SuDoc) stems.
+
+The records are also available in the Catalog of U.S. Government Publications (CGP) and may be retrieved by this search in expert mode: `wlts=Nist-1`
+
+The titles in the NIST Collection were published between 1903 and 2016. The documents cover a wide range of technical and scientific topics. LSCM staff reviewed and analyzed the records and enhanced the metadata through batch processes. In many of the records, NIST index terms in MARC 653 fields describe the content at a more granular level. 
+
+## Contact Information
+Please send us your feedback and questions on the records and this distribution method through askGPO under the category, Federal Depository Libraries, and the subcategory, Cataloging.
 
