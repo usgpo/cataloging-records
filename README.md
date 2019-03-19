@@ -12,6 +12,7 @@ The CGP on GitHub is a location where users may freely download record sets extr
 
 *  Records created/updated by the LTS staff with valid OCLC numbers
 *  Records created/updated as part of the Historic Shelflist project
+*  Newly created/updated brief bibliographic records
 
 ## National Institute of Standards and Technology (NIST) Collection
 The entire NIST Collection contains nearly 10,000 records in 13 series/SuDoc stems. The NIST records were ingested into FDsys, now govinfo, in 2016. LSCM will release groups of records by monographic series and Superintedent of Documents classification (SuDoc) stems.
