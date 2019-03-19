@@ -23,13 +23,12 @@ The records are also available in the Catalog of U.S. Government Publications (C
 The titles in the NIST Collection were published between 1903 and 2016. The documents cover a wide range of technical and scientific topics. LSCM staff reviewed and analyzed the records and enhanced the metadata through batch processes. In many of the records, NIST index terms in MARC 653 fields describe the content at a more granular level. 
 
 ## Record Sets
-| **SuDoc** | **Title** | **Other Title(s)** | **Item Number** | **Dates** |
-| --- | --- | --- | --- |
+|  **SuDoc**  |  **Title**  |  **Other Title(s)**  |  **Item Number**  |  **Dates**  
+|--|--|--|--|--|
 | C 13.2 | NIST National Construction Safety Team Act Reports | NIST NCSTAR | 0244 | 2005-2014 |
 | C 13.11 | NIST Handbooks | (None) | 0245 | 2012-2016 |
 | C 13.38 | NBS report | (None) | Not available | 1947-1972 |
-| C 13.58 | NISTIR | NIST Interagency or Internal Reports | 0247-D | 1988-2016 | 
-| --- | --- | --- | --- |
+| C 13.58 | NISTIR | NIST Interagency or Internal Reports | 0247-D | 1988-2016 |
 
 ## Contact Information
 Please send us your feedback and questions on the records and this distribution method through askGPO under the category, Federal Depository Libraries, and the subcategory, Cataloging.
