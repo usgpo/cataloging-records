@@ -1,14 +1,13 @@
 # Cataloging-records
 The Catalog of U.S. Government Publications (CGP) is the U.S. Government Publishing Office (GPO) finding tool for electronic and print publications from the legislative, executive, and judicial branches of the U.S. government. These publications make up the National Bibliography of U.S. Government Publications. CGP records contain descriptive information for historical and current publications and provides direct links to those that are available online. Records produced by GPO staff meet national standards such as Resource Description & Access (RDA) and Anglo-American Cataloging Rules (AACR2), and include GPO Historic Shelflist project brief bibliographic records and other retrospective records. 
 
-The CGP on GitHub is a location where users may freely download record sets extracted from the CGP. Two file format options are available for record sets - MARC-8 and UTF-8.
+The CGP on GitHub is a location where users may freely download record sets extracted from the CGP. 
 
 ## CGP MARC Record Sets
 ###  1. Six months of catalog records are available, representing the monthly output of the Library Technical Services (LTS) cataloging staff.
 ###  2. Each month has a UTF-8 and a MARC-8 file available for download.
-###  3. The naming convention of the files are as follows: “cataloging_records-YYYYMM_####_format.mrc”.  The abbreviation YYYYMM stands for the year and month, and #### represents the number of bibliographic records in the record set. Format indicates if the character set is either UTF-8 or MARC-8. 
-###  4. Each of the files represent a copy of the record set extracted from CGP. The only difference is the character-set: MARC-8 or UTF-8.
-###  5. Each of the files includes the following categories of bibliographic records:
+###  3. The naming conventions of the files are as follows: “cataloging_records-YYYYMM_####_format.mrc”.  The abbreviation YYYYMM stands for the year and month, and #### represents the number of bibliographic records in the record set. Format indicates if the character set is either UTF-8 or MARC-8. 
+###  4. Each of the files includes the following categories of bibliographic records:
 
 *  Records created/updated by the LTS staff with valid OCLC numbers
 *  Records created/updated as part of the Historic Shelflist project
