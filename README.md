@@ -3,10 +3,10 @@ The CGP on GitHub is a location where users may freely download record sets extr
  
 
 ## CGP MARC Record Sets
-###  1. Six months of catalog records are available, representing the monthly output of the Library Technical Services (LTS) cataloging staff.
-###  2. Each month has a UTF-8 and a MARC-8 file available for download.
-###  3. The naming conventions of the files are as follows: “cataloging_records-YYYYMM_####_format.mrc”.  The abbreviation YYYYMM stands for the year and month, and #### represents the number of bibliographic records in the record set. Format indicates if the character set is either UTF-8 or MARC-8. 
-###  4. Each of the files includes the following categories of bibliographic records:
+  1. Six months of catalog records are available, representing the monthly output of the Library Technical Services (LTS) cataloging staff.
+  2. Each month has a UTF-8 and a MARC-8 file available for download.
+  3. The naming conventions of the files are as follows: “cataloging_records-YYYYMM_####_format.mrc”.  The abbreviation YYYYMM stands for the year and month, and #### represents the number of bibliographic records in the record set. Format indicates if the character set is either UTF-8 or MARC-8. 
+  4. Each of the files includes the following categories of bibliographic records:
 
 *  Records created/updated by the LTS staff with valid OCLC numbers
 *  Records created/updated as part of the Historic Shelflist project
