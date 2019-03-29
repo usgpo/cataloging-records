@@ -5,9 +5,7 @@ To download all files, use the "Clone or download" button. To retrieve individua
  
 
 ## CGP MARC Record Sets
-Six months of catalog records are available, representing the monthly output of the Library Technical Services (LTS) cataloging staff. Each month has a UTF-8 and a MARC-8 file available for download.
-
-The naming conventions of the files are as follows: “**cataloging_records-YYYYMM_####_format.mrc**”.  The abbreviation YYYYMM stands for the year and month, and #### represents the number of bibliographic records in the record set. Format indicates if the character set is either UTF-8 or MARC-8.
+Six monthly sets of new and updated catalog records are available in both UTF-8 and MARC-8 formats. The naming conventions of the files are as follows: “**cataloging_records-YYYYMM_####_format.mrc**”.  The abbreviation YYYYMM stands for the year and month, and #### represents the number of bibliographic records in the record set. Format indicates if the character set is either UTF-8 or MARC-8.
  
 Each of the files includes the following categories of bibliographic records:
    * Records created/updated by the LTS staff with valid OCLC numbers
