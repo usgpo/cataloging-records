@@ -14,5 +14,4 @@ The titles in the NIST Collection were published between 1903 and 2016. The docu
 | C 13.58 | NISTIR | NIST Interagency or Internal Reports | 0247-D | 1988-2016 |
 
 To download all files, use the "Clone or download" button. To retrieve individual files, right-click on the filename and select "Save link as..." and ensure that the file is saved as a MARC file. Alternatively, watch a 3 minute tutorial at FDLP.gov, [Free Catalog Records through CGP on GitHub](https://www.fdlp.gov/free-catalog-records-through-cgp-on-github "Free Catalog Records through CGP on GitHub").
-## Contact Information
-Please send us your feedback and questions on the records and this distribution method through [askGPO](https://www.gpo.gov/askgpo "FDLP.gov: Contact GPO via askGPO") under the category, Federal Depository Libraries, and the subcategory, Cataloging.
+
