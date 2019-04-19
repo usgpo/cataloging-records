@@ -5,6 +5,8 @@ The records are also available in the Catalog of U.S. Government Publications (C
 
 The titles in the NIST Collection were published between 1903 and 2016. The documents cover a wide range of technical and scientific topics. LSCM staff reviewed and analyzed the records and enhanced the metadata through batch processes. In many of the records, NIST index terms in MARC 653 fields describe the content at a more granular level. 
 
+Records are offered in UTF-8, MARC-8, and MARCXML formats.
+
 ## Record Sets
 |  **SuDoc**  |  **Title**  |  **Other Title(s)**  |  **Item Number**  |  **Dates**  
 |--|--|--|--|--|
