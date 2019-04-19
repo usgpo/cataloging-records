@@ -15,4 +15,4 @@ Each of the files includes the following categories of bibliographic records:
 | C 13.38 | NBS report | (None) | Not available | 1947-1972 |
 | C 13.58 | NISTIR | NIST Interagency or Internal Reports | 0247-D | 1988-2016 |
 
-To download all files, use the "Clone or download" button. To retrieve individual files, right-click on the filename and select "Save link as..." and ensure that the file is saved as a MARC file. Alternatively, watch a 3 minute tutorial at FDLP.gov, [Free Catalog Records through CGP on GitHub](https://www.fdlp.gov/free-catalog-records-through-cgp-on-github "Free Catalog Records through CGP on GitHub").
+To download all files, use the "Clone or download" button. To retrieve individual files, right-click on the filename and select "Save link as..." and ensure that the file is saved as a MARC file. Alternatively, watch a 3 minute tutorial at FDLP.gov, [Free Catalog Records through CGP on GitHub](https://www.fdlp.gov/free-catalog-records-through-cgp-on-github "FDLP.gov: Free Catalog Records through CGP on GitHub").
