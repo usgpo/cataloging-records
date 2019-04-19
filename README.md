@@ -8,5 +8,5 @@ To download all files, use the "Clone or download" button. To retrieve individua
 ## Record Sets Available
 
 - CGP MARC Records
-- Online FDLP Basic Collection
 - National Institue of Standards and Technology (NIST) Collection
+- Online FDLP Basic Collection
