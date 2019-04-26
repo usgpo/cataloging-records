@@ -5,14 +5,3 @@ Each of the files includes the following categories of bibliographic records:
    * Records created/updated by the LTS staff with valid OCLC numbers
    * Records created/updated as part of the Historic Shelflist project
    * Newly created/updated brief bibliographic records
-
-
-## Record Sets
-|  **SuDoc**  |  **Title**  |  **Other Title(s)**  |  **Item Number**  |  **Dates**  
-|--|--|--|--|--|
-| C 13.2 | NIST National Construction Safety Team Act Reports | NIST NCSTAR | 0244 | 2005-2014 |
-| C 13.11 | NIST Handbooks | (None) | 0245 | 2012-2016 |
-| C 13.38 | NBS report | (None) | Not available | 1947-1972 |
-| C 13.58 | NISTIR | NIST Interagency or Internal Reports | 0247-D | 1988-2016 |
-
-To download all files, use the "Clone or download" button. To retrieve individual files, right-click on the filename and select "Save link as..." and ensure that the file is saved as a MARC file. Alternatively, watch a 3 minute tutorial at FDLP.gov, [Free Catalog Records through CGP on GitHub](https://www.fdlp.gov/free-catalog-records-through-cgp-on-github "FDLP.gov: Free Catalog Records through CGP on GitHub").
