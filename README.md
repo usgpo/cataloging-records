@@ -11,7 +11,6 @@ To download all files, use the "Clone or download" button. To retrieve individua
 
 - CGP MARC Records
 - National Institue of Standards and Technology (NIST) Collection
-- Online FDLP Basic Collection
 
 ## Contact Information
 Please send us your feedback and questions on the records and this distribution method through [askGPO](https://www.gpo.gov/askgpo "FDLP.gov: Contact GPO via askGPO") under the category, Federal Depository Libraries, and the subcategory, Cataloging.
