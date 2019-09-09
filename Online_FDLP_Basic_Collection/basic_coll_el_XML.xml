@@ -3702,12 +3702,12 @@ http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://www.loc.gov/MARC21/slim
 http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
-  <leader>00000cai a2200385 a 4500</leader>
+  <leader>00000cai a2200457 a 4500</leader>
   <controlfield tag="001">000531955</controlfield>
-  <controlfield tag="005">20190730140808.0</controlfield>
-  <controlfield tag="006">m        d f</controlfield>
-  <controlfield tag="007">cr mnu||||||||</controlfield>
-  <controlfield tag="008">010327c20009999dcu x wss    f0    2eng c</controlfield>
+  <controlfield tag="005">20190819103607.0</controlfield>
+  <controlfield tag="006">m     o  d f</controlfield>
+  <controlfield tag="007">cr mn|||||||||</controlfield>
+  <controlfield tag="008">010327c20009999dcu x wso    f0    2eng c</controlfield>
   <datafield tag="010" ind1=" " ind2=" ">
     <subfield code="a">2008230151</subfield>
   </datafield>
@@ -3725,11 +3725,17 @@ http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   </datafield>
   <datafield tag="040" ind1=" " ind2=" ">
     <subfield code="a">GPO</subfield>
+    <subfield code="b">eng</subfield>
     <subfield code="c">GPO</subfield>
     <subfield code="d">OCLCQ</subfield>
     <subfield code="d">IHI</subfield>
     <subfield code="d">OCLCQ</subfield>
     <subfield code="d">PSM</subfield>
+    <subfield code="d">GPO</subfield>
+    <subfield code="d">IUL</subfield>
+    <subfield code="d">OCLCQ</subfield>
+    <subfield code="d">OCLCF</subfield>
+    <subfield code="d">OCLCQ</subfield>
     <subfield code="d">GPO</subfield>
   </datafield>
   <datafield tag="042" ind1=" " ind2=" ">
@@ -3737,10 +3743,6 @@ http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   </datafield>
   <datafield tag="043" ind1=" " ind2=" ">
     <subfield code="a">n-us---</subfield>
-  </datafield>
-  <datafield tag="050" ind1=" " ind2="4">
-    <subfield code="a">ZA5075</subfield>
-    <subfield code="b">.F5</subfield>
   </datafield>
   <datafield tag="074" ind1=" " ind2=" ">
     <subfield code="a">0559-J-02 (online)</subfield>
@@ -3750,8 +3752,7 @@ http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
     <subfield code="z">GS 1.40:INTERNET</subfield>
   </datafield>
   <datafield tag="245" ind1="0" ind2="0">
-    <subfield code="a">USA.gov</subfield>
-    <subfield code="h">[electronic resource].</subfield>
+    <subfield code="a">USA.gov.</subfield>
   </datafield>
   <datafield tag="247" ind1="1" ind2="0">
     <subfield code="a">FIRSTGOV</subfield>
@@ -3763,16 +3764,28 @@ http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
     <subfield code="c">2000-</subfield>
   </datafield>
   <datafield tag="300" ind1=" " ind2=" ">
-    <subfield code="b">HTML files</subfield>
+    <subfield code="a">1 online resource</subfield>
   </datafield>
   <datafield tag="310" ind1=" " ind2=" ">
     <subfield code="a">Updated irregularly</subfield>
   </datafield>
-  <datafield tag="500" ind1=" " ind2=" ">
-    <subfield code="a">Title from home page last updated Jan. 7, 2008 (viewed Jan. 7, 2008).</subfield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
   </datafield>
-  <datafield tag="538" ind1=" " ind2=" ">
-    <subfield code="a">Mode of access: Internet at the GSA web site. Address as 1/7/08: http://www.usa.gov/; curreent access is available via PURL.</subfield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">computer</subfield>
+    <subfield code="b">c</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">online resource</subfield>
+    <subfield code="b">cr</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="588" ind1=" " ind2=" ">
+    <subfield code="a">Description based on contents viewed Jan. 7, 2008; title from web page.</subfield>
   </datafield>
   <datafield tag="650" ind1=" " ind2="0">
     <subfield code="a">Government information</subfield>
@@ -3783,6 +3796,25 @@ http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
     <subfield code="z">United States</subfield>
     <subfield code="x">States.</subfield>
   </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Government information.</subfield>
+    <subfield code="2">fast</subfield>
+    <subfield code="0">(OCoLC)fst00945364</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Government information</subfield>
+    <subfield code="x">U.S. states.</subfield>
+    <subfield code="2">fast</subfield>
+    <subfield code="0">(OCoLC)fst00945379</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="7">
+    <subfield code="a">United States.</subfield>
+    <subfield code="2">fast</subfield>
+    <subfield code="0">(OCoLC)fst01204155</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">USAGov.</subfield>
+  </datafield>
   <datafield tag="710" ind1="1" ind2=" ">
     <subfield code="a">United States.</subfield>
     <subfield code="b">General Services Administration.</subfield>
@@ -3790,9 +3822,12 @@ http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <datafield tag="856" ind1="4" ind2="0">
     <subfield code="u">http://purl.access.gpo.gov/GPO/LPS89189</subfield>
   </datafield>
+  <datafield tag="856" ind1="4" ind2=" ">
+    <subfield code="u">https://www.usa.gov/</subfield>
+  </datafield>
   <datafield tag="856" ind1=" " ind2=" ">
     <subfield code="3">(online)</subfield>
-    <subfield code="u">http://catalog.gpo.gov/fdlpdir/locate.jsp?ItemNumber=0559-J-02&amp;SYS=000531955</subfield>
+    <subfield code="u">https://catalog.gpo.gov/fdlpdir/locate.jsp?ItemNumber=0559-J-02&amp;SYS=000531955</subfield>
   </datafield>
   <datafield tag="994" ind1=" " ind2=" ">
     <subfield code="a">C0</subfield>
@@ -3802,7 +3837,7 @@ http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
     <subfield code="a">GPOO</subfield>
   </datafield>
   <datafield tag="955" ind1=" " ind2=" ">
-    <subfield code="a">bca35 20080107</subfield>
+    <subfield code="a">bca35 20190819</subfield>
   </datafield>
   <datafield tag="922" ind1=" " ind2=" ">
     <subfield code="a">BASICTITLE</subfield>
@@ -4153,9 +4188,9 @@ http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://www.loc.gov/MARC21/slim
 http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
-  <leader>00000cai a2200457 i 4500</leader>
+  <leader>     cai a2200529 i 4500</leader>
   <controlfield tag="001">000914125</controlfield>
-  <controlfield tag="005">20190730140904.0</controlfield>
+  <controlfield tag="005">20190819100732.0</controlfield>
   <controlfield tag="006">m     o  d f</controlfield>
   <controlfield tag="007">cr mn|||||||||</controlfield>
   <controlfield tag="008">121002c20129999dcu x w o    f0    2eng c</controlfield>
@@ -4172,6 +4207,10 @@ http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
     <subfield code="e">pn</subfield>
     <subfield code="c">GZL</subfield>
     <subfield code="d">WCL</subfield>
+    <subfield code="d">GPO</subfield>
+    <subfield code="d">OCLCO</subfield>
+    <subfield code="d">OCLCA</subfield>
+    <subfield code="d">OCLCF</subfield>
     <subfield code="d">GPO</subfield>
   </datafield>
   <datafield tag="042" ind1=" " ind2=" ">
@@ -4192,6 +4231,7 @@ http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   </datafield>
   <datafield tag="246" ind1="1" ind2=" ">
     <subfield code="a">United States legislative information</subfield>
+    <subfield code="f">&lt;November 25, 2013&gt;-February 15, 2014</subfield>
   </datafield>
   <datafield tag="264" ind1=" " ind2="1">
     <subfield code="a">[Washington, D.C.] :</subfield>
@@ -4221,15 +4261,24 @@ http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   <datafield tag="362" ind1="1" ind2=" ">
     <subfield code="a">Began in 2012.</subfield>
   </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">On July 5, 2016, Congress.gov replaced Thomas.gov as a provider of legislative information on Congress.</subfield>
+  </datafield>
   <datafield tag="520" ind1=" " ind2=" ">
-    <subfield code="a">Congress.gov is gradually replacing the near 20-year-old THOMAS.gov site. Congresss.gov currently includes all data sets available on THOMAS.gov except nominations, treaties and communications. These data sets will be added throughout 2014. Until that time, they are still accessible through the THOMAS.gov link: http://thomas.loc.gov/home/thomas.php. THOMAS.gov will be permanently retired by the end of 2014.</subfield>
+    <subfield code="a">Congresss.gov currently includes all data sets available on THOMAS.gov except nominations, treaties and communications. These data sets will be added throughout 2014. Until that time, they are still accessible through the THOMAS.gov link: http://thomas.loc.gov/home/thomas.php.</subfield>
   </datafield>
   <datafield tag="588" ind1=" " ind2=" ">
-    <subfield code="a">Description based on contents viewed Nov. 25, 2013; title from home page (viewed Nov. 11, 2013).</subfield>
+    <subfield code="a">Description based on contents viewed Nov. 25, 2013; title from home page.</subfield>
   </datafield>
   <datafield tag="610" ind1="1" ind2="0">
     <subfield code="a">United States.</subfield>
     <subfield code="b">Congress.</subfield>
+  </datafield>
+  <datafield tag="610" ind1="1" ind2="7">
+    <subfield code="a">United States.</subfield>
+    <subfield code="b">Congress.</subfield>
+    <subfield code="2">fast</subfield>
+    <subfield code="0">(OCoLC)fst00529490</subfield>
   </datafield>
   <datafield tag="650" ind1=" " ind2="0">
     <subfield code="a">Bills, Legislative</subfield>
@@ -4248,12 +4297,33 @@ http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
     <subfield code="z">United States</subfield>
     <subfield code="x">Information services.</subfield>
   </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Bills, Legislative.</subfield>
+    <subfield code="2">fast</subfield>
+    <subfield code="0">(OCoLC)fst00831831</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Law.</subfield>
+    <subfield code="2">fast</subfield>
+    <subfield code="0">(OCoLC)fst00993678</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Politics and government.</subfield>
+    <subfield code="2">fast</subfield>
+    <subfield code="0">(OCoLC)fst01919741</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="7">
+    <subfield code="a">United States.</subfield>
+    <subfield code="2">fast</subfield>
+    <subfield code="0">(OCoLC)fst01204155</subfield>
+  </datafield>
   <datafield tag="710" ind1="2" ind2=" ">
     <subfield code="a">Library of Congress,</subfield>
     <subfield code="e">issuing body.</subfield>
   </datafield>
-  <datafield tag="787" ind1="0" ind2=" ">
+  <datafield tag="780" ind1="0" ind2="5">
     <subfield code="t">THOMAS (Library of Congress)</subfield>
+    <subfield code="g">July 5, 2016</subfield>
     <subfield code="w">(DLC) 2013230287</subfield>
     <subfield code="w">(OCoLC)86072397</subfield>
   </datafield>
@@ -4273,6 +4343,9 @@ http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
   </datafield>
   <datafield tag="049" ind1=" " ind2=" ">
     <subfield code="a">GPOO</subfield>
+  </datafield>
+  <datafield tag="955" ind1=" " ind2=" ">
+    <subfield code="a">bca35 20190819</subfield>
   </datafield>
   <datafield tag="955" ind1=" " ind2=" ">
     <subfield code="a">bca35 20131125</subfield>
