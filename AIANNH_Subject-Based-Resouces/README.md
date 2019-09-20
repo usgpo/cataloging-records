@@ -1,4 +1,4 @@
-## American Indian, Alaska Native, Native Hawaiian - Subject Based Resources
+## American Indian, Alaska Native, Native Hawaiian (AIANNH) - Subject Based Resources
 ### Record Sets and .csv Files Based on LCSH Lists from Tribal College FDLs – CGP on GitHub
 -----------
 
