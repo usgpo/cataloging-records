@@ -2,7 +2,7 @@
 
 The entire NIST Collection contains nearly 10,000 records in 13 series/SuDoc stems. The NIST records were ingested into FDsys, now govinfo, in 2016. LSCM will release groups of records by monographic series and Superintendent of Documents classification (SuDoc) stems.
 
-The records are also available in the Catalog of U.S. Government Publications (CGP) and may be retrieved by this search in expert mode: `wlts=Nist-1`
+The records are also available in the [Catalog of U.S. Government Publications](https://catalog.gpo.gov) (CGP) and may be retrieved by this search in expert mode: [`wlts=Nist-1`](https://catalog.gpo.gov/F/?func=find-c&ccl_term=wlts%3Dnist-1&x=0&y=0)
 
 The titles in the NIST Collection were published between 1903 and 2016. The documents cover a wide range of technical and scientific topics. LSCM staff reviewed and analyzed the records and enhanced the metadata through batch processes. In many of the records, NIST index terms in MARC 653 fields describe the content at a more granular level. 
 
