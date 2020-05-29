@@ -12,7 +12,7 @@ List no. 2 -- [https://catalog.gpo.gov/F/?func=find-c&ccl_term=wlts%3Dgithubtest
 
 In May 2020, we processed MARC and .csv files for new records added to the CGP during the period of December 2019, January 2020, and February 2020. We also included a third list of water resources terms.
 
-List 1 - American Indian/Alaska Native/Native Hawaiian Terms
+### List 1 - American Indian/Alaska Native/Native Hawaiian Terms
 
 - Indians of North America
 
@@ -50,7 +50,7 @@ List 1 - American Indian/Alaska Native/Native Hawaiian Terms
 
 - Native language and education
 
-List 2 - Oil and Gas Drilling Terms
+### List 2 - Oil and Gas Drilling Terms
 
 - Petroleum reserves
 
@@ -92,7 +92,7 @@ List 2 - Oil and Gas Drilling Terms
 
 - Energy development
 
-List 3 - Water Resources Terms
+### List 3 - Water Resources Terms
 
 - Acid pollution of rivers, lakes, etc.
 
