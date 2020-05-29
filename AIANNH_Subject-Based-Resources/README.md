@@ -4,11 +4,15 @@
 
 -----------
 
-The staff of several Tribal college Federal depository libraries have requested GPO to test methods of providing notifications of newly cataloged online resources based on specific subjects and keywords. The FDLs suggested broad subject areas and Library Technical Services Staff distilled them into lists of LCSH terms. We used those lists to search for new records added to the CGP in the period of April through June 2019. There are forty-one records in list no. 1 and there are twelve records in list no. 2. The .csv files include major metadata fields, OCLC number, item number, SuDoc number, title, date, and PURL, for each publication.
+The staff of several Tribal college Federal depository library community have requested GPO to test methods of providing notifications of newly cataloged online resources based on specific subjects and keywords. The FDLs worked with Library Technical Services staff to compile two lists of LCSH terms. In September 2019, we used those lists to search for new records added to the Catalog of U.S. Government Publications (CGP) in the period of April through June 2019. There are forty-one records in list no. 1 and there are twelve records in list no. 2. The .csv files include major metadata fields, OCLC number, item number, SuDoc number, title, date, and PURL, for each publication.
 
-Local MARC 922 fields have been added with the terms, [GITHUBTEST1](https://catalog.gpo.gov/F/?func=find-c&ccl_term=wlts%3Dgithubtest1&x=0&y=0) and [GITHUBTEST2](https://catalog.gpo.gov/F/?func=find-c&ccl_term=wlts%3Dgithubtest2&x=0&y=0), to enable retrieving these records in two groups. 
+List no. 1 -- [https://catalog.gpo.gov/F/?func=find-c&ccl_term=wlts%3Dgithubtest1&x=0&y=0](https://catalog.gpo.gov/F/?func=find-c&ccl_term=wlts%3Dgithubtest1&x=0&y=0)
 
-[GITHUBTEST1](https://catalog.gpo.gov/F/?func=find-c&ccl_term=wlts%3Dgithubtest1&x=0&y=0) contains resources based on the following subject headings:
+List no. 2 -- [https://catalog.gpo.gov/F/?func=find-c&ccl_term=wlts%3Dgithubtest2&x=0&y=0](https://catalog.gpo.gov/F/?func=find-c&ccl_term=wlts%3Dgithubtest2&x=0&y=0)
+
+In May 2020, we processed MARC and .csv files for new records added to the CGP during the period of December 2019, January 2020, and February 2020. We also included a third list of water resources terms.
+
+List 1 - American Indian/Alaska Native/Native Hawaiian Terms
 
 - Indians of North America
 
@@ -46,7 +50,7 @@ Local MARC 922 fields have been added with the terms, [GITHUBTEST1](https://cata
 
 - Native language and education
 
-[GITHUBTEST2](https://catalog.gpo.gov/F/?func=find-c&ccl_term=wlts%3Dgithubtest2&x=0&y=0) contains resources based on the following subject headings:
+List 2 - Oil and Gas Drilling Terms
 
 - Petroleum reserves
 
@@ -87,3 +91,73 @@ Local MARC 922 fields have been added with the terms, [GITHUBTEST1](https://cata
 - Natural resources
 
 - Energy development
+
+List 3 - Water Resources Terms
+
+- Acid pollution of rivers, lakes, etc.
+
+- Aquifers
+- Base flow (hydrology)
+- Coal-fired power plants
+- Dam retirement
+- Dam safety
+- Dams
+- Drought management
+- Drought relief
+- Droughts
+- Water conservation
+- Drought forecasting
+- Electric power production
+- Environmental monitoring
+- Environmental policy
+- Environmental protection
+- Erosion
+- Federal aid to water quality management
+- Fish populations
+- Floodplain management
+- Floodplains
+- Floods
+- Groundwater
+- Groundwater disposal in rivers, lakes, etc.
+- Hydrogeology
+- Hydrological stations
+- Hydrological surveys
+- Indian courts
+- Indian land transfer
+- Indians of North America – Claims
+- Indians of North America – Land tenure
+- Land titles
+- Land trusts
+- Marine resources conservation
+- Mercury
+- Mercury wastes
+- Natural gas reserves
+- Nonpoint source pollution
+- Nutrient pollution of water
+- Petroleum reserves
+- Reservoirs
+- Riparian restoration
+- Runoff
+- Sediment transport
+- Seepage
+- Sewage
+- Stream ecology
+- Stream measurements
+- Streamflow
+- Urban runoff
+- Water
+- Water balance (hydrology)
+- Water levels
+- Water quality
+- Water quality management
+- Water resources development
+- Water rights
+- Water security
+- Water supply, rural
+- Water treatment plants
+- Water-power
+- Watershed ecology
+- Watershed management
+- Watershed restoration
+- Water-storage
+- Water-supply
