@@ -11,7 +11,7 @@ To download all files, use the "Clone or download" button. To retrieve individua
 - [CGP MARC Records](https://github.com/usgpo/cataloging-records/tree/master/CGP_MARC_Records)
 - [National Institue of Standards and Technology (NIST) Collection](https://github.com/usgpo/cataloging-records/tree/master/NIST_Collection)
 - [Online FDLP Basic Collection](https://github.com/usgpo/cataloging-records/tree/master/Online_FDLP_Basic_Collection)
-- [American Indian, Alaska Native, and Native Hawaiian (AIANNH) Subject Based Resources](https://github.com/usgpo/cataloging-records/tree/master/AIANNH_Subject-Based-Resouces)
+- [American Indian, Alaska Native, and Native Hawaiian (AIANNH) Subject Based Resources](https://github.com/usgpo/cataloging-records/tree/master/AIANNH_Subject-Based-Resources)
 - [Online version records without Item Numbers](https://github.com/usgpo/cataloging-records/tree/master/Online_version_records_without_item_numbers)
 - [COVID-19/Coronavirus resources](https://github.com/usgpo/cataloging-records/tree/master/COVID-19_Coronavirus)
 
