@@ -4,7 +4,7 @@
 
 -----------
 
-The staff of several Tribal college Federal depository library community have requested GPO to test methods of providing notifications of newly cataloged online resources based on specific subjects and keywords. The FDLs worked with Library Technical Services staff to compile two lists of LCSH terms. In September 2019, we used those lists to search for new records added to the Catalog of U.S. Government Publications (CGP) in the period of April through June 2019. There are forty-one records in list no. 1 and there are twelve records in list no. 2. The .csv files include major metadata fields, OCLC number, item number, SuDoc number, title, date, and PURL, for each publication.
+The staff of several Tribal College Federal depository libraries (FDLs) requested GPO to test methods of providing notifications of newly cataloged online resources based on specific subjects and keywords. The FDLs worked with Library Technical Services staff to compile two lists of LCSH terms. In September 2019, we used those lists to search for new records added to the Catalog of U.S. Government Publications (CGP) in the period of April through June 2019. There are forty-one records in list no. 1 and there are twelve records in list no. 2. The .csv files include major metadata fields, OCLC number, item number, SuDoc number, title, date, and PURL, for each publication.
 
 List no. 1 -- [https://catalog.gpo.gov/F/?func=find-c&ccl_term=wlts%3Dgithubtest1&x=0&y=0](https://catalog.gpo.gov/F/?func=find-c&ccl_term=wlts%3Dgithubtest1&x=0&y=0)
 
