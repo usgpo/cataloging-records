@@ -1,5 +1,5 @@
 ## Online FDLP Basic Collection
+
 The FDLP Basic Collection is a list of resources that every library in the program is required to have accessible for immediate use of the public.  There are currently 23 resources in the Basic Collection and all are available in online format.  The record sets contain the bibliographic records for the online versions of the Basic Collection resources in UTF-8, MARC-8, and MARCXML formats.  More information about the Basic Collection is available on the [FDLP website](https://www.fdlp.gov/requirements-guidance/collections-and-databases/1442-basic-collection "Federal Depository Library Program website").
 
-To download all files, use the "Clone or download" button. To retrieve individual files, right-click on the filename and select "Save link as..." and ensure that the file is saved as a MARC file. Alternatively, watch a 3 minute tutorial at FDLP.gov, [Free Catalog Records through CGP on GitHub](https://www.fdlp.gov/free-catalog-records-through-cgp-on-github "Free Catalog Records through CGP on GitHub").
-
+To download the files, use the "[Clone or download](https://github.com/usgpo/cataloging-records)" button. The downloaded zip file contains all of the files in the CGP on GitHub repository. Please watch the 3-minute tutorial, [Free Catalog Records through CGP on GitHub](https://www.fdlp.gov/free-catalog-records-through-cgp-on-github), on the Federal Depository Library Program website, [FDLP.gov](https://www.fdlp.gov).

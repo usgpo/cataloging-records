@@ -4,7 +4,7 @@ The **CGP on GitHub** is a location where users may freely download record sets 
 
 MARC record files are offered in **UTF-8**, **MARC-8**, and **MARCXML** formats.  
 
-To download all files, use the "Clone or download" button. To retrieve individual files, right-click on the filename and select "Save link as..." and ensure that the file is saved as a MARC file. Alternatively, watch a 3 minute tutorial at FDLP.gov, [Free Catalog Records through CGP on GitHub](https://www.fdlp.gov/free-catalog-records-through-cgp-on-github "Free Catalog Records through CGP on GitHub").
+To download the files, use the "[Clone or download](https://github.com/usgpo/cataloging-records)" button. The downloaded zip file contains all of the files in the CGP on GitHub repository. Please watch the 3-minute tutorial, [Free Catalog Records through CGP on GitHub](https://www.fdlp.gov/free-catalog-records-through-cgp-on-github), on the Federal Depository Library Program website, [FDLP.gov](https://www.fdlp.gov).
   
 ## Record Sets Available
 
@@ -18,4 +18,4 @@ To download all files, use the "Clone or download" button. To retrieve individua
 
 ## Contact Information
 
-Please send us your feedback and questions on the records and this distribution method through [askGPO](https://www.gpo.gov/askgpo "FDLP.gov: Contact GPO via askGPO") under the category, Federal Depository Libraries, and the subcategory, Cataloging.
+Please send us your feedback and questions about our repository and records via [askGPO](https://ask.gpo.gov/s/) > Federal Depository Library Program > Cataloging/Metadata (Policy and Records) category.
