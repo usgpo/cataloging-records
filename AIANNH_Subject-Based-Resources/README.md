@@ -97,67 +97,131 @@ In May 2020, we processed MARC and .csv files for new records added to the CGP d
 - Acid pollution of rivers, lakes, etc.
 
 - Aquifers
+
 - Base flow (hydrology)
+
 - Coal-fired power plants
+
 - Dam retirement
+
 - Dam safety
+
 - Dams
+
 - Drought management
+
 - Drought relief
+
 - Droughts
+
 - Water conservation
+
 - Drought forecasting
+
 - Electric power production
+
 - Environmental monitoring
+
 - Environmental policy
+
 - Environmental protection
+
 - Erosion
+
 - Federal aid to water quality management
+
 - Fish populations
+
 - Floodplain management
+
 - Floodplains
+
 - Floods
+
 - Groundwater
+
 - Groundwater disposal in rivers, lakes, etc.
+
 - Hydrogeology
+
 - Hydrological stations
+
 - Hydrological surveys
+
 - Indian courts
+
 - Indian land transfer
+
 - Indians of North America – Claims
+
 - Indians of North America – Land tenure
+
 - Land titles
+
 - Land trusts
+
 - Marine resources conservation
+
 - Mercury
+
 - Mercury wastes
+
 - Natural gas reserves
+
 - Nonpoint source pollution
+
 - Nutrient pollution of water
+
 - Petroleum reserves
+
 - Reservoirs
+
 - Riparian restoration
+
 - Runoff
+
 - Sediment transport
+
 - Seepage
+
 - Sewage
+
 - Stream ecology
+
 - Stream measurements
+
 - Streamflow
+
 - Urban runoff
+
 - Water
+
 - Water balance (hydrology)
+
 - Water levels
+
 - Water quality
+
 - Water quality management
+
 - Water resources development
+
 - Water rights
+
 - Water security
+
 - Water supply, rural
+
 - Water treatment plants
+
 - Water-power
+
 - Watershed ecology
+
 - Watershed management
+
 - Watershed restoration
+
 - Water-storage
+
 - Water-supply

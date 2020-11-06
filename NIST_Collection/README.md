@@ -6,7 +6,7 @@ Library Technical Services staff reviewed and analyzed the records and enhanced 
 
 The records can be retrieved in the Catalog of U.S. Government Publications by this search in the expert mode: [wlts=Nist-1](https://catalog.gpo.gov/F/?func=find-c&ccl_term=wlts%3Dnist-1&x=0&y=0)
 
-The records are available in UTF-8, MARC-8, and MARCXML. To download the files, use the "[Clone or download](https://github.com/usgpo/cataloging-records)" button. The downloaded zip file contains all of the files in the CGP on GitHub repository. Please watch the 3-minute tutorial, [Free Catalog Records through CGP on GitHub](https://www.fdlp.gov/free-catalog-records-through-cgp-on-github), on the Federal Depository Library Program website, [FDLP.gov](https://www.fdlp.gov).
+The records are available in UTF-8, MARC-8, and MARCXML. 
 
 ## Record Sets
 
