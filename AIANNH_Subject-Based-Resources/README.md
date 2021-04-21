@@ -16,7 +16,7 @@ In May 2020, we processed MARC and .csv files for new records added to the CGP d
 
 A | B | C
 -------------------------- | -------------------------- | --------------------------
-Indians of North America | Native language | Alaska natives
+[Indians of North America](term_md_1.md) | [Native language](term_md_2.md) | [Alaska natives](term_md_3.md)
 Indian business enterprises | Hawaiians | Federal aid to Indians
 Indian land transfers | Federal-Indian trust relationship |Tribal trust funds
 Tribal government | Indigenous peoples | Indian country (United States law)
