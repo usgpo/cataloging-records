@@ -3,6 +3,7 @@
 ## Title (w/link to PURL) | SuDoc | CGP# (w/link) | OCLC# (w/link) | Item# | Date
 
 [A guide to understanding gifted American Indian students](https://catalog.gpo.gov)
+
 ED 1.310/2:284715 | CGP: [001085837](https://catalog.gpo.gov/F/?func=direct&doc_number=001085837&local_base=GPO01PUB) | OCLC: [17971228](https://www.worldcat.org/oclc/17971228&referer=brief_results) | No item number | 1987.
 
 [Amending the Alyce Spotted Bear and Walter Soboleff Commission on Native Children Act...](https://catalog.gpo.gov)
