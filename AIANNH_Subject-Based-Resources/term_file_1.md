@@ -7,15 +7,19 @@
 ED 1.310/2:284715 | CGP: [001085837](https://catalog.gpo.gov/F/?func=direct&doc_number=001085837&local_base=GPO01PUB) | OCLC: [17971228](https://www.worldcat.org/oclc/17971228&referer=brief_results) | No item number | 1987.
 
 [Amending the Alyce Spotted Bear and Walter Soboleff Commission on Native Children Act...](https://catalog.gpo.gov)
+
 Y 1.1/5:116-271 | CGP: [001137486](https://catalog.gpo.gov/F/?func=direct&doc_number=001137486&local_base=GPO01PUB) | OCLC: [1239737928](https://www.worldcat.org/oclc/1239737928&referer=brief_results) | 1008-C | 2020.
 
 [An Act to Amend the Indian Self-Determination and Education Assistance Act to Provide...](https://catalog.gpo.gov)
+
 AE 2.110:116-180 | CGP: [001138378](https://catalog.gpo.gov/F/?func=direct&doc_number=001138378&local_base=GPO01PUB) | OCLC: [1241081809](https://www.worldcat.org/oclc/1241081809&referer=brief_results) | 0575 | 2020.
 
 [An Act to Amend the Indian Self-Determination and Education Assistance Act to Provide...](https://purl.fdlp.gov/GPO/gpo146993)
+
 AE 2.110:116-180 | CGP: [001131790](https://catalog.gpo.gov/F/?func=direct&doc_number=001131790&local_base=GPO01PUB) | OCLC: [1202814993](https://www.worldcat.org/oclc/1202814993&referer=brief_results) | 0575-A-02 (online) | 2020.
 
 [An Act to Establish a Business Incubators Program within the Department of the Interi...](https://catalog.gpo.gov)
+
 AE 2.110:116-174 | CGP: [001138373](https://catalog.gpo.gov/F/?func=direct&doc_number=001138373&local_base=GPO01PUB) | OCLC: [1241086741](https://www.worldcat.org/oclc/1241086741&referer=brief_results) | 0575 | 2020.
 
 [An Act to Establish a Business Incubators Program within the Department of the Interi...](https://purl.fdlp.gov/GPO/gpo147008)
