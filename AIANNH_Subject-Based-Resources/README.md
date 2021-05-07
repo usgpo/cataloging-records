@@ -12,7 +12,7 @@ The three lists of LCSH subject headings are:
 - Oil and gas drilling terms
 - Water resources terms
 
-For the terms of each list, please see the [description of the May 2020 files](https://github.com).
+For the terms of each list, please see the [description of the May 2020 files](https://github.com/usgpo/cataloging-records/tree/master/AIANNH_Subject-Based-Resources/202005).
 
 LSCM posts new files on a quarterly basis. The files consist of:
 
