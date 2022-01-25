@@ -32,7 +32,7 @@ Oil well drilling | Petroleum industry and trade | Petroleum law and legislation
 Petroleum products | Petroleum reserves
 
 
-## [Water Resources Terms](Terms_Lists_Records_Display/Water_Resources_List_Records_Display)
+## [Water Resources Terms](Terms_Lists_Records_Display/Water_Resources_List_Records_Display.md)
 
 | <!-- -->                    | <!-- -->                 | <!-- --> 
 ------------------------------|-----------------------------|--------------------------
