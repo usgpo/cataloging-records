@@ -20,7 +20,7 @@ Native language and education | Tribal trust funds | Tribal government
   
  
 
-## [Oil and Gas Drilling Terms](Terms_Lists_Records_Display/Oil_and_Gas_List_Records_Display.md)
+## [Oil and Gas Drilling Terms](Terms_Records_Display_Lists/Oil_and_Gas_List_Records_Display.md)
 | <!-- -->                    | <!-- -->                 | <!-- --> 
 ------------------------------|--------------------------|-----------------------------
 Energy development | Gas fields | Gas industry
@@ -32,7 +32,7 @@ Oil well drilling | Petroleum industry and trade | Petroleum law and legislation
 Petroleum products | Petroleum reserves
 
 
-## [Water Resources Terms](Terms_Lists_Records_Display/Water_Resources_List_Records_Display.md)
+## [Water Resources Terms](Terms_Records_Display_Lists/Water_Resources_List_Records_Display.md)
 
 | <!-- -->                    | <!-- -->                 | <!-- --> 
 ------------------------------|-----------------------------|--------------------------
