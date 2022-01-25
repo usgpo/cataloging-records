@@ -4,26 +4,21 @@
 
 -----------
 
-The staff of several Tribal College Federal depository libraries (FDLs) requested GPO to test methods of providing notifications of newly cataloged online resources based on specific subjects and keywords. The FDLs worked with Library Technical Services staff to compile two lists of LCSH terms. In September 2019, we used those lists to search for new records added to the Catalog of U.S. Government Publications (CGP) in the period of April through June 2019. There are forty-one records in list no. 1 and there are twelve records in list no. 2. The .csv files include major metadata fields, OCLC number, item number, SuDoc number, title, date, and PURL, for each publication.
+The staff of several Tribal College Federal depository libraries (FDLs) requested GPO to test methods of providing notifications of newly cataloged online resources based on specific subjects and keywords. The FDLs worked with Library Technical Services staff to compile two lists of LCSH terms. In September 2019, we used those lists to search for new records added to the Catalog of U.S. Government Publications (CGP) in the period of April through June 2019. The .csv files include major metadata fields, OCLC number, item number, SuDoc number, title, date, and PURL, for each publication. In May 2020, we processed MARC and .csv files for new records added to the CGP during the period of December 2019, January 2020, and February 2020. We also included a third list of water resources terms.
 
-List no. 1 -- [https://catalog.gpo.gov/F/?func=find-c&ccl_term=wlts%3Dgithubtest1&x=0&y=0](https://catalog.gpo.gov/F/?func=find-c&ccl_term=wlts%3Dgithubtest1&x=0&y=0)
+Click list names to see a display of CGP records with those subject headings.
 
-List no. 2 -- [https://catalog.gpo.gov/F/?func=find-c&ccl_term=wlts%3Dgithubtest2&x=0&y=0](https://catalog.gpo.gov/F/?func=find-c&ccl_term=wlts%3Dgithubtest2&x=0&y=0)
+## [American Indian/Alaska Native/Native Hawaiian Terms](AIANNH_List_Records_Display.md)
 
-In May 2020, we processed MARC and .csv files for new records added to the CGP during the period of December 2019, January 2020, and February 2020. We also included a third list of water resources terms.
-
-## List 1 - American Indian/Alaska Native/Native Hawaiian Terms
-
-A | B | C
 -------------------------- | -------------------------- | --------------------------
-[Indians of North America](term_md_1.md) | [Native language](term_md_2.md) | [Alaska natives](term_md_3.md)
+Indians of North America | Native language | Alaska natives
 Indian business enterprises | Hawaiians | Federal aid to Indians
 Indian land transfers | Federal-Indian trust relationship |Tribal trust funds
 Tribal government | Indigenous peoples | Indian country (United States law)
 Indian reservations | Indian homeless persons | Indian children
 Alaska Native children | Hawaiian children | Native language and education
 
-## List 2 - Oil and Gas Drilling Terms
+## [Oil and Gas Drilling Terms](Terms_Lists_Records_Display/Oil_and_Gas_List_Records_Display.md)
 
 A | B | C
 ----------- | ----------- | -----------
@@ -35,7 +30,7 @@ Oil fields | Geothermal well drilling | Geothermal resources
 Oil well drilling | Gas well drilling | Natural gas
 Natural resources | Energy development
 
-## List 3 - Water Resources Terms
+## [Water Resources Terms](Terms_Lists_Records_Display/Water_Resources_List_Records_Display)
 
 A | B | C
 ----------- | ----------- | -----------
