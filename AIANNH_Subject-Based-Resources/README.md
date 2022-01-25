@@ -8,7 +8,7 @@ The staff of several Tribal College Federal depository libraries (FDLs) requeste
 
 Click list names to see a display of CGP records with those subject headings.
 
-## [American Indian/Alaska Native/Native Hawaiian Terms](Terms_Lists_Records_Display/AIANNH_List_Records_Display.md)
+## [American Indian/Alaska Native/Native Hawaiian Terms](Terms_Records_Display_Lists/AIANNH_List_Records_Display.md)
 | <!-- -->                    | <!-- -->                 | <!-- --> 
 ------------------------------|--------------------------|-----------------------------
 Alaska natives | Alaska Native children | Indians of North America 
