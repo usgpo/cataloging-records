@@ -9,3 +9,5 @@ Each of the files includes the following categories of bibliographic records:
 * Records created/updated as part of the Historic Shelflist project
 
 * Newly created/updated brief bibliographic records
+
+* Text file containing identification numbers of records deleted from the current record set
