@@ -19,7 +19,7 @@ Indian country (United States law) | Indian homeless persons | Indian land trans
 Indian reservations | Indigenous peoples | Native language
 Native language and education | Tribal trust funds | Tribal government
 
-## [Oil and Gas Drilling Terms](/AIANNH_Subject-Based-Resources/Terms_Records_Display_Lists/Oil_and_Gas_List_Records_Display.md)
+## [Oil and Gas Drilling Terms](/AIANNH_Subject-Based-Resources/Terms_Lists_Records_Displays/Oil_and_Gas_List_Records_Display.md)
 
 | <!-- -->                    | <!-- -->                 | <!-- -->
 ------------------------------|--------------------------|-----------------------------
@@ -31,7 +31,7 @@ Oil fields | Oil spills | Oil wells
 Oil well drilling | Petroleum industry and trade | Petroleum law and legislation
 Petroleum products | Petroleum reserves
 
-## [Water Resources Terms](/AIANNH_Subject-Based-Resources/Terms_Records_Display_Lists/Water_Resources_List_Records_Display.md)
+## [Water Resources Terms](/AIANNH_Subject-Based-Resources/Terms_Lists_Records_Displays/Water_Resources_List_Records_Display.md)
 
 | <!-- -->                    | <!-- -->                 | <!-- -->
 ------------------------------|-----------------------------|--------------------------
