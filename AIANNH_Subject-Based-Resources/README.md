@@ -1,7 +1,5 @@
 # American Indian, Alaska Native, Native Hawaiian (AIANNH) - Subject Based Resources
 
-## Record Sets and .csv Files Based on LCSH Lists from Tribal College FDLs – CGP on GitHub
-
 -----------
 
 The staff of several Tribal College Federal depository libraries (FDLs) requested GPO to test methods of providing notifications of newly cataloged online resources based on specific subjects and keywords. The FDLs worked with Library Technical Services staff to compile two lists of LCSH terms. In September 2019, we used those lists to search for new records added to the Catalog of U.S. Government Publications (CGP) in the period of April through June 2019. The .csv files include major metadata fields, OCLC number, item number, SuDoc number, title, date, and PURL, for each publication. In May 2020, we processed MARC and .csv files for new records added to the CGP during the period of December 2019, January 2020, and February 2020. We also included a third list of water resources terms.
