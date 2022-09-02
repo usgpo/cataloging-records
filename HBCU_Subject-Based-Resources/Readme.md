@@ -2,7 +2,7 @@
 
 ------------
 
-There are 310 subject terms, and 81 online version records retrieved.
+There are 310 subject terms, and 73 online version records retrieved.
 
 `Click list names to see a display of CGP records with those subject headings.`
 
