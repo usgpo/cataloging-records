@@ -92,7 +92,7 @@ Black people--United States | Black power--United States | Boycotts--Alabama
 Boxers (Sports)--United States | Civil rights demonstrations--Alabama | Confederate States of America--History
 Cotton--Handling | Education--Political aspects | Education--Regional disparities
 Industrial museums--Collection management | Libraries--Special collections--Business | Libraries--Special collections--Commerce
-Libraries--Special collections--Gardens | Libraries�Special collections�Scrapbooks | Libraries�Special collections�Social justice
+Libraries--Special collections--Gardens | Libraries--Special collections--Scrapbooks | Libraries--Special collections--Social justice
 Libraries--Special collections--Technology | Plantations--Alabama | Portrait photography--United States
 Race relations--Economic aspects | Race relations--Political aspects | Race relations--Religious aspects
 Racism--Religious aspects | Reconstruction (U.S. history, 1865-1877)--African American troops | Scientists--Correspondence
