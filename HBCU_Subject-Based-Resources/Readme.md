@@ -2,7 +2,9 @@
 
 ------------
 
-`Placeholder description text`
+There are 310 subject terms, and 81 online version records retrieved.
+
+`Click list names to see a display of CGP records with those subject headings.`
 
 ## [Historically Black Colleges and Universities Resources](/HBCU_Subject-Based-Resources/Terms_Lists_Records_Displays/HBCU_List_Records_Display.md)
 
