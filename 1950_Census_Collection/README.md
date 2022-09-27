@@ -1,7 +1,7 @@
 
 # September 2022 FDLP Academy Webinar 1950 Census Collection
 
-Each record shown here contains a SuDoc stem of 'C 3.950'.
+Each record shown here contains a SuDoc stem of `C 3.950`.
 
 For feedback and questions about the records, please submit an inquiry in the “Cataloging/Metadata (Policy and Records)” category via [askGPO](https://ask.gpo.gov/s/).
 | *Title*       | *CGP*       | *Author*       | *Date*       | *SuDoc*
