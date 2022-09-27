@@ -1,7 +1,7 @@
 
-# September 2022 FDLP Academy Webinar 1950 Census Collection
+# 1950 Census Collection
 
-Each record shown here contains a SuDoc stem of `C 3.950`.
+The National Archives has just created the Official 1950 Census Website providing full access to the 1950 census images, including population schedules, enumeration district maps, and enumeration district descriptions.  Library Technical Services has cataloged the following official reports from the 1950 census on topics including population and housing.
 
 For feedback and questions about the records, please submit an inquiry in the “Cataloging/Metadata (Policy and Records)” category via [askGPO](https://ask.gpo.gov/s/).
 | *Title*       | *CGP*       | *Author*       | *Date*       | *SuDoc*
