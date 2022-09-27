@@ -8,14 +8,15 @@ To download the files, use the “Code” button in the right-hand section of th
   
 ## Record Sets Available
 
-- [American Indian, Alaska Native, and Native Hawaiian (AIANNH) Subject Based Resources](https://github.com/usgpo/cataloging-records/tree/master/AIANNH_Subject-Based-Resources)
-- [CGP MARC Records](https://github.com/usgpo/cataloging-records/tree/master/CGP_MARC_Records)
-- [CGP Records with Updated PURLS](https://github.com/usgpo/cataloging-records/tree/master/CGP_Records_with_Updated_PURLs)
-- [COVID-19/Coronavirus resources](https://github.com/usgpo/cataloging-records/tree/master/COVID-19_Coronavirus)
+- [1950 Census Collection](https://github.com/usgpo/cataloging-records/tree/main/1950_Census_Collection)
+- [American Indian, Alaska Native, and Native Hawaiian (AIANNH) Subject Based Resources](https://github.com/usgpo/cataloging-records/tree/main/AIANNH_Subject-Based-Resources)
+- [CGP MARC Records](https://github.com/usgpo/cataloging-records/tree/main/CGP_MARC_Records)
+- [CGP Records with Updated PURLS](https://github.com/usgpo/cataloging-records/tree/main/CGP_Records_with_Updated_PURLs)
+- [COVID-19/Coronavirus resources](https://github.com/usgpo/cataloging-records/tree/main/COVID-19_Coronavirus)
 - [Law Library of Congress Reports Collection](https://github.com/usgpo/cataloging-records/tree/main/Law_Library_Congress)
-- [National Institue of Standards and Technology (NIST) Collection](https://github.com/usgpo/cataloging-records/tree/master/NIST_Collection)
-- [Online FDLP Basic Collection](https://github.com/usgpo/cataloging-records/tree/master/Online_FDLP_Basic_Collection)
-- [Online version records without Item Numbers](https://github.com/usgpo/cataloging-records/tree/master/Online_version_records_without_item_numbers)
+- [National Institue of Standards and Technology (NIST) Collection](https://github.com/usgpo/cataloging-records/tree/main/NIST_Collection)
+- [Online FDLP Basic Collection](https://github.com/usgpo/cataloging-records/tree/main/Online_FDLP_Basic_Collection)
+- [Online version records without Item Numbers](https://github.com/usgpo/cataloging-records/tree/main/Online_version_records_without_item_numbers)
 
 ## Contact Information
 
