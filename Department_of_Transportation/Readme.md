@@ -1,7 +1,7 @@
 
 # Department of Transportation Records Collection
 
-This record set contains the online version records of reports from the Department of Transportation and its departments cataloged in the [Catalog of U.S. Government Publications (CGP)](https://catalog.gpo.gov) within the last two years. The comma-separated values (CSV) file contains data exported from the records: eleven MARC fields, including the CGP system numbers, OCLC control numbers, item numbers, Superintendent of Documents classification numbers, and PURLs.
+This record set contains twenty-three online version records of reports from the Department of Transportation and its departments cataloged in the [Catalog of U.S. Government Publications (CGP)](https://catalog.gpo.gov) within the last two years. The [comma-separated values (CSV) file](/Department_of_Transportation/transportation_roundtable_records_23.txt) contains data exported from the records: CGP No. (001), OCLC No. (035 $a), Item No. (074 $a), SuDoc No. (086 $a), PURL (856 40 $u), Title (245 $a and $b).
 
 For feedback and questions about the records, please submit an inquiry in the “Cataloging/Metadata (Policy and Records)” category via [askGPO](https://ask.gpo.gov/s/).
 | *Title*       | *CGP*       | *Author*       | *Date*       | *SuDoc*
