@@ -13,6 +13,8 @@ To download the files, use the “Code” button in the right-hand section of th
 - [CGP MARC Records](https://github.com/usgpo/cataloging-records/tree/main/CGP_MARC_Records)
 - [CGP Records with Updated PURLS](https://github.com/usgpo/cataloging-records/tree/main/CGP_Records_with_Updated_PURLs)
 - [COVID-19/Coronavirus resources](https://github.com/usgpo/cataloging-records/tree/main/COVID-19_Coronavirus)
+- [Department of Transportation Records Collection](https://github.com/usgpo/cataloging-records/tree/main/Department_of_Transportation)
+- [Historically Black Colleges and Universities (HBCU) Subject Based Resources](https://github.com/usgpo/cataloging-records/tree/main/HBCU_Subject-Based-Resources)
 - [Law Library of Congress Reports Collection](https://github.com/usgpo/cataloging-records/tree/main/Law_Library_Congress)
 - [National Institue of Standards and Technology (NIST) Collection](https://github.com/usgpo/cataloging-records/tree/main/NIST_Collection)
 - [Online FDLP Basic Collection](https://github.com/usgpo/cataloging-records/tree/main/Online_FDLP_Basic_Collection)
