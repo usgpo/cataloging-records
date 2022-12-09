@@ -1,159 +1,56 @@
 # American Indian/Alaska Native/Native Hawaiian Terms
 
-## Title (w/link to PURL) | SuDoc | CGP# (w/link) | Item# | Date
+`This list contains metadata on 50 records.`
 
-[A guide to understanding gifted American Indian students](https://catalog.gpo.gov)
-ED 1.310/2:284715 | CGP: [001085837](https://catalog.gpo.gov/F/?func=direct&doc_number=001085837&local_base=GPO01PUB) | No item number | 1987.
-
-[Amending the Alyce Spotted Bear and Walter Soboleff Commission on Native Children Act...](https://catalog.gpo.gov)
-Y 1.1/5:116-271 | CGP: [001137486](https://catalog.gpo.gov/F/?func=direct&doc_number=001137486&local_base=GPO01PUB) | 1008-C | 2020.
-
-[An Act to Amend the Indian Self-Determination and Education Assistance Act to Provide...](https://catalog.gpo.gov)
-AE 2.110:116-180 | CGP: [001138378](https://catalog.gpo.gov/F/?func=direct&doc_number=001138378&local_base=GPO01PUB) | 0575 | 2020.
-
-[An Act to Amend the Indian Self-Determination and Education Assistance Act to Provide...](https://purl.fdlp.gov/GPO/gpo146993)
-
-AE 2.110:116-180 | CGP: [001131790](https://catalog.gpo.gov/F/?func=direct&doc_number=001131790&local_base=GPO01PUB) | 0575-A-02 (online) | 2020.
-
-[An Act to Establish a Business Incubators Program within the Department of the Interi...](https://catalog.gpo.gov)
-
-AE 2.110:116-174 | CGP: [001138373](https://catalog.gpo.gov/F/?func=direct&doc_number=001138373&local_base=GPO01PUB) | | 0575 | 2020.
-
-[An Act to Establish a Business Incubators Program within the Department of the Interi...](https://purl.fdlp.gov/GPO/gpo147008)
-AE 2.110:116-174 | CGP: [001131803](https://catalog.gpo.gov/F/?func=direct&doc_number=001131803&local_base=GPO01PUB) | 0575-A-02 (online) | 2020.
-
-[An Act to Nullify the Supplemental Treaty Between the United States of America and th...](https://catalog.gpo.gov)
-AE 2.110:116-175 | CGP: [001139297](https://catalog.gpo.gov/F/?func=direct&doc_number=001139297&local_base=GPO01PUB) | 0575 | 2020.
-
-[An Act to Nullify the Supplemental Treaty Between the United States of America and th...](https://www.govinfo.gov/content/pkg/PLAW-116publ175/html/PLAW-116publ175.htm)
-AE 2.110:116-175 | CGP: [001139293](https://catalog.gpo.gov/F/?func=direct&doc_number=001139293&local_base=GPO01PUB) | 0575-A-02 (online) | 2020.
-
-[Bridging the gap : strategies for civic engagement and diplomacy in the Bering Strait...](https://purl.fdlp.gov/GPO/gpo145541)
-HS 7.2:B 45 | CGP: [001129753](https://catalog.gpo.gov/F/?func=direct&doc_number=001129753&local_base=GPO01PUB) | 0520-C (online) | 2020.
-
-[Combating wildlife trafficking: agencies work to address human rights abuse allegatio...](https://purl.fdlp.gov/GPO/gpo146909)
-GA 1.41:GAO-21-139 R | CGP: [001131771](https://catalog.gpo.gov/F/?func=direct&doc_number=001131771&local_base=GPO01PUB) | 0545-A-04 (online) | 2020.
-
-[Evaluation of the Bidahochi and San Andres-Glorieta aquifers on parts of the Zuni Ind...](https://catalog.gpo.gov)
-I 19.42/4:89-4192 | CGP: [000356040](https://catalog.gpo.gov/F/?func=direct&doc_number=000356040&local_base=GPO01PUB) | 0624-B | 1991.
-
-[Evaluation of the Bidahochi and San Andres-Glorieta aquifers on parts of the Zuni Ind...](https://purl.fdlp.gov/GPO/gpo151745)
-I 19.42/4:89-4192 | CGP: [001138472](https://catalog.gpo.gov/F/?func=direct&doc_number=001138472&local_base=GPO01PUB) | 0624-B-05 (online) | 1991.
-
-[From languages to homelands : advancing tribal self-governance and cultural sovereign...](https://purl.fdlp.gov/GPO/gpo153646)
-Y 4.IN 2/11:S.HRG.116-410 | CGP: [001147884](https://catalog.gpo.gov/F/?func=direct&doc_number=001147884&local_base=GPO01PUB) | 1009-D-05 (online) | 2021.
-
-[H.R. 4532, Shash Jáa National Monument and Indian Creek National Monument Act. legisl...](https://catalog.gpo.gov)
-Y 4.R 31/3:115-33 | CGP: [001089118](https://catalog.gpo.gov/F/?func=direct&doc_number=001089118&local_base=GPO01PUB) | 1023-A | 2018.
-
-[H.R. 4532, Shash Jáa National Monument and Indian Creek National Monument Act. legisl...](https://catalog.gpo.gov)
-Y 4.R 31/3:115-33 | CGP: [001139210](https://catalog.gpo.gov/F/?func=direct&doc_number=001139210&local_base=GPO01PUB) | 1023-B (MF) | 2018.
-
-[H.R. 4532, Shash Jáa National Monument and Indian Creek National Monument Act. legisl...](https://purl.fdlp.gov/GPO/gpo112110)
-Y 4.R 31/3:115-33 | CGP: [001089119](https://catalog.gpo.gov/F/?func=direct&doc_number=001089119&local_base=GPO01PUB) | 1023-C (online) | 2018.
-
-[Health Care Access for Urban Native Veterans Act of 2019 : report (to accompany S. 23...](https://catalog.gpo.gov)
-Y 1.1/5:116-180 | CGP: [001112764](https://catalog.gpo.gov/F/?func=direct&doc_number=001112764&local_base=GPO01PUB) | 1008-C | 2019.
-
-[Health Care Access for Urban Native Veterans Act of 2019 : report (to accompany S. 23...](https://catalog.gpo.gov)
-Y 1.1/5:116-180 | CGP: [001138313](https://catalog.gpo.gov/F/?func=direct&doc_number=001138313&local_base=GPO01PUB) | 1008-D (MF) | 2019.
-
-[Health Care Access for Urban Native Veterans Act of 2019 : report (to accompany S. 23...](https://purl.fdlp.gov/GPO/gpo130533)
-Y 1.1/5:116-180 | CGP: [001112747](https://catalog.gpo.gov/F/?func=direct&doc_number=001112747&local_base=GPO01PUB) | 1008-G (online) | 2019.
-
-[Health of American Indian and Alaska native adults, by urbanization level : United St...](https://purl.fdlp.gov/GPO/gpo152389)
-HE 20.6234:372 | CGP: [001138154](https://catalog.gpo.gov/F/?func=direct&doc_number=001138154&local_base=GPO01PUB) | 0500-E-17 (online) | 2020.
-
-[MSI STEM Achievement Act : report (to accompany H.R. 4372) (including cost estimate o...](https://catalog.gpo.gov)
-Y 1.1/8:116-269 | CGP: [001110128](https://catalog.gpo.gov/F/?func=direct&doc_number=001110128&local_base=GPO01PUB) | 1008-C-02 | 2019.
-
-[MSI STEM Achievement Act : report (to accompany H.R. 4372) (including cost estimate o...](https://catalog.gpo.gov)
-Y 1.1/8:116-269 | CGP: [001139276](https://catalog.gpo.gov/F/?func=direct&doc_number=001139276&local_base=GPO01PUB) | 1008-D (MF) | 2019.
-
-[MSI STEM Achievement Act : report (to accompany H.R. 4372) (including cost estimate o...](https://purl.fdlp.gov/GPO/gpo128086)
-Y 1.1/8:116-269 | CGP: [001109395](https://catalog.gpo.gov/F/?func=direct&doc_number=001109395&local_base=GPO01PUB) | 1008-I (online) | 2019.
-
-[Military base off-taker opportunities for tribal renewable energy projects](https://purl.fdlp.gov/GPO/gpo152435)
-E 9.16:NREL/TP-7 A 40-57501 | CGP: [000912362](https://catalog.gpo.gov/F/?func=direct&doc_number=000912362&local_base=GPO01PUB) | 0430-P-03 (online) | 2013.
-
-[Not Invisible Act of 2019](https://www.govinfo.gov/content/pkg/PLAW-116publ166/html/PLAW-116publ166.htm)
-AE 2.110:116-166 | CGP: [001131461](https://catalog.gpo.gov/F/?func=direct&doc_number=001131461&local_base=GPO01PUB) | 0575-A-02 (online) | 2020.
-
-[Pending legislation : hearing before the Subcommittee on Public Lands, Forests, and M...](https://catalog.gpo.gov)
-Y 4.EN 2:S.HRG.115-528 | CGP: [001136040](https://catalog.gpo.gov/F/?func=direct&doc_number=001136040&local_base=GPO01PUB) | 1040-A | 2020.
-
-[Pending legislation : hearing before the Subcommittee on Public Lands, Forests, and M...](https://purl.fdlp.gov/GPO/gpo143649)
-Y 4.EN 2:S.HRG.115-528 | CGP: [001127728](https://catalog.gpo.gov/F/?func=direct&doc_number=001127728&local_base=GPO01PUB) | 1040-C (online) | 2020.
-
-[Programs to support tribal justice](https://purl.fdlp.gov/GPO/gpo153301)
-J 26.2:T 73/2 | CGP: [001139024](https://catalog.gpo.gov/F/?func=direct&doc_number=001139024&local_base=GPO01PUB) | 0968-H-01 (online) | 2020.
-
-[Savanna's Act](https://catalog.gpo.gov)
-AE 2.110:116-165 | CGP: [001136459](https://catalog.gpo.gov/F/?func=direct&doc_number=001136459&local_base=GPO01PUB) | 0575 | 2020.
-
-[State Opioid Response Grant Authorization Act of 2020 : report (to accompany H.R. 246...](https://catalog.gpo.gov)
-Y 1.1/8:116-568 | CGP: [001139256](https://catalog.gpo.gov/F/?func=direct&doc_number=001139256&local_base=GPO01PUB) | 1008-C-02 | 2020.
-
-[State and Local Government Cybersecurity Act of 2019 : report of the Committee on Hom...](https://catalog.gpo.gov)
-Y 1.1/5:116-90 | CGP: [001106645](https://catalog.gpo.gov/F/?func=direct&doc_number=001106645&local_base=GPO01PUB) | 1008-C | 2019.
-
-[State and Local Government Cybersecurity Act of 2019 : report of the Committee on Hom...](https://catalog.gpo.gov)
-Y 1.1/5:116-90 | CGP: [001137989](https://catalog.gpo.gov/F/?func=direct&doc_number=001137989&local_base=GPO01PUB) | 1008-D (MF) | 2019.
-
-[State and Local Government Cybersecurity Act of 2019 : report of the Committee on Hom...](https://purl.fdlp.gov/GPO/gpo125718)
-Y 1.1/5:116-90 | CGP: [001106367](https://catalog.gpo.gov/F/?func=direct&doc_number=001106367&local_base=GPO01PUB) | 1008-G (online) | 2019.
-
-[Suicide Prevention Act : report (to accompany H.R. 5619)](https://catalog.gpo.gov)
-Y 1.1/8:116-520 | CGP: [001136315](https://catalog.gpo.gov/F/?func=direct&doc_number=001136315&local_base=GPO01PUB) | 1008-C-02 | 2020.
-
-[Suicide Prevention Act : report (to accompany H.R. 5619)](https://purl.fdlp.gov/GPO/gpo148360)
-Y 1.1/8:116-520 | CGP: [001133512](https://catalog.gpo.gov/F/?func=direct&doc_number=001133512&local_base=GPO01PUB) | 1008-I (online) | 2020.
-
-[To amend the Omnibus Public Land Management Act of 2009 to make the Reclamation Water...](https://catalog.gpo.gov)
-Y 1.1/5:116-189 | CGP: [001112610](https://catalog.gpo.gov/F/?func=direct&doc_number=001112610&local_base=GPO01PUB) | 1008-C | 2019.
-
-[To amend the Omnibus Public Land Management Act of 2009 to make the Reclamation Water...](https://catalog.gpo.gov)
-Y 1.1/5:116-189 | CGP: [001137806](https://catalog.gpo.gov/F/?func=direct&doc_number=001137806&local_base=GPO01PUB) | 1008-D (MF) | 2019.
-
-[To amend the Omnibus Public Land Management Act of 2009 to make the Reclamation Water...](https://purl.fdlp.gov/GPO/gpo130210)
-Y 1.1/5:116-189 | CGP: [001112385](https://catalog.gpo.gov/F/?func=direct&doc_number=001112385&local_base=GPO01PUB) | 1008-G (online) | 2019.
-
-[To direct the Attorney General to review, revise, and develop law enforcement and jus...](https://catalog.gpo.gov)
-Y 1.1/5:116-206 | CGP: [001113686](https://catalog.gpo.gov/F/?func=direct&doc_number=001113686&local_base=GPO01PUB) | 1008-C | 2020.
-
-[To direct the Attorney General to review, revise, and develop law enforcement and jus...](https://catalog.gpo.gov)
-Y 1.1/5:116-206 | CGP: [001137842](https://catalog.gpo.gov/F/?func=direct&doc_number=001137842&local_base=GPO01PUB) | 1008-D (MF) | 2020.
-
-[To direct the Attorney General to review, revise, and develop law enforcement and jus...](https://purl.fdlp.gov/GPO/gpo130955)
-Y 1.1/5:116-206 | CGP: [001113299](https://catalog.gpo.gov/F/?func=direct&doc_number=001113299&local_base=GPO01PUB) | 1008-G (online) | 2020.
-
-[To direct the Secretary of the Interior to take certain land located in Pinal County...](https://catalog.gpo.gov)
-Y 1.1/5:116-270 | CGP: [001137487](https://catalog.gpo.gov/F/?func=direct&doc_number=001137487&local_base=GPO01PUB) | 1008-C | 2020.
-
-[To extend the federal recognition to the Little Shell Tribe of Chippewa Indians of Mo...](https://catalog.gpo.gov)
-Y 1.1/5:116-190 | CGP: [001113171](https://catalog.gpo.gov/F/?func=direct&doc_number=001113171&local_base=GPO01PUB) | 1008-C | 2020.
-
-[To extend the federal recognition to the Little Shell Tribe of Chippewa Indians of Mo...](https://catalog.gpo.gov)
-Y 1.1/5:116-190 | CGP: [001137802](https://catalog.gpo.gov/F/?func=direct&doc_number=001137802&local_base=GPO01PUB) | 1008-D (MF) | 2020.
-
-[To extend the federal recognition to the Little Shell Tribe of Chippewa Indians of Mo...](https://purl.fdlp.gov/GPO/gpo130561)
-Y 1.1/5:116-190 | CGP: [001112762](https://catalog.gpo.gov/F/?func=direct&doc_number=001112762&local_base=GPO01PUB) | 1008-G (online) | 2020.
-
-[To repeal certain obsolete laws relating to Indians : report (to accompany S. 2071) (...](https://catalog.gpo.gov)
-Y 1.1/5:116-132 | CGP: [001108950](https://catalog.gpo.gov/F/?func=direct&doc_number=001108950&local_base=GPO01PUB) | 1008-C | 2019.
-
-[To repeal certain obsolete laws relating to Indians : report (to accompany S. 2071) (...](https://catalog.gpo.gov)
-Y 1.1/5:116-132 | CGP: [001135491](https://catalog.gpo.gov/F/?func=direct&doc_number=001135491&local_base=GPO01PUB) | 1008-D (MF) | 2019.
-
-[To repeal certain obsolete laws relating to Indians : report (to accompany S. 2071) (...](https://purl.fdlp.gov/GPO/gpo128097)
-Y 1.1/5:116-132 | CGP: [001109418](https://catalog.gpo.gov/F/?func=direct&doc_number=001109418&local_base=GPO01PUB) | 1008-G (online) | 2019.
-
-[Tribal Health Data Improvement Act of 2020 : report (to accompany H.R. 7948)](https://catalog.gpo.gov)
-Y 1.1/8:116-546 | CGP: [001136317](https://catalog.gpo.gov/F/?func=direct&doc_number=001136317&local_base=GPO01PUB) | 1008-C-02 | 2020.
-
-[Tribal Health Data Improvement Act of 2020 : report (to accompany H.R. 7948)](https://purl.fdlp.gov/GPO/gpo148430)
-Y 1.1/8:116-546 | CGP: [001133564](https://catalog.gpo.gov/F/?func=direct&doc_number=001133564&local_base=GPO01PUB) | 1008-I (online) | 2020.
-
-[Workforce Development annual reports](https://purl.fdlp.gov/GPO/gpo152221)
-I 20.71: | CGP: [001139029](https://catalog.gpo.gov/F/?func=direct&doc_number=001139029&local_base=GPO01PUB) | 0627-A-09 (online) | 2014-2017.
-
+| *Title*       | *CGP*       | *Author*       | *Date*       | *SuDoc*
+-----------------|-----------------|-----------------|-----------------|-----------------
+| [A guide to healthy homes for housing professionals : American Indian and Alaska Native communities](https://purl.fdlp.gov/GPO/gpo177391) | [1177266](https://catalog.gpo.gov/F/?func=direct&doc_number=1177266&local_base=GPO01PUB) | No data | 2020 | HH 1.6/3:H 75/33 |
+| [A guide to healthy homes for housing professionals : American Indian and Alaska Native communities](https://purl.fdlp.gov/GPO/gpo177391) | [1177266](https://catalog.gpo.gov/F/?func=direct&doc_number=1177266&local_base=GPO01PUB) | No data | 2020 | HH 1.6/3:H 75/33 |
+| [A guide to healthy homes for leaders and decisionmakers : American Indian and Alaska Native communities](https://purl.fdlp.gov/GPO/gpo177357) | [1177237](https://catalog.gpo.gov/F/?func=direct&doc_number=1177237&local_base=GPO01PUB) | No data | 2020 | HH 1.6/3:H 75/31 |
+| [A guide to healthy homes for leaders and decisionmakers : American Indian and Alaska Native communities](https://purl.fdlp.gov/GPO/gpo177357) | [1177237](https://catalog.gpo.gov/F/?func=direct&doc_number=1177237&local_base=GPO01PUB) | No data | 2020 | HH 1.6/3:H 75/31 |
+| [A guide to healthy homes for medical and health professionals : American Indian and Alaska Native communities](https://purl.fdlp.gov/GPO/gpo177404) | [1177272](https://catalog.gpo.gov/F/?func=direct&doc_number=1177272&local_base=GPO01PUB) | No data | 2020 | HH 1.6/3:H 75/34 |
+| [A guide to healthy homes for medical and health professionals : American Indian and Alaska Native communities](https://purl.fdlp.gov/GPO/gpo177404) | [1177272](https://catalog.gpo.gov/F/?func=direct&doc_number=1177272&local_base=GPO01PUB) | No data | 2020 | HH 1.6/3:H 75/34 |
+| [A self-help guide to healthy homes for American Indian and Alaska Native families](https://purl.fdlp.gov/GPO/gpo177388) | [1177260](https://catalog.gpo.gov/F/?func=direct&doc_number=1177260&local_base=GPO01PUB) | No data | 2020 | HH 1.6/3:H 75/32 |
+| [A self-help guide to healthy homes for American Indian and Alaska Native families](https://purl.fdlp.gov/GPO/gpo177388) | [1177260](https://catalog.gpo.gov/F/?func=direct&doc_number=1177260&local_base=GPO01PUB) | No data | 2020 | HH 1.6/3:H 75/32 |
+| [Administration of the Johnson-O'Malley Act : hearing before the Subcommittee on Indian Affairs of the Committee on Inter...](https://purl.fdlp.gov/GPO/gpo186540) | [1201370](https://catalog.gpo.gov/F/?func=direct&doc_number=1201370&local_base=GPO01PUB) | United States. Congress. Senate. Committee on Interior and I... | 1975 | Y 4.IN 8/13:J 63 |
+| [Amending the Alaska Native Claims Settlement Act : hearing before the Subcommittee on Indian Affairs of the Committee on...](https://purl.fdlp.gov/GPO/gpo185952) | [1200836](https://catalog.gpo.gov/F/?func=direct&doc_number=1200836&local_base=GPO01PUB) | United States. Congress. House. Committee on Interior and In... | 1974 | Y 4.IN 8/14:93-41 |
+| [Amending the Alaska Native Claims Settlement Act : hearing before the Subcommittee on Indian Affairs of the Committee on...](https://purl.fdlp.gov/GPO/gpo185952) | [1200836](https://catalog.gpo.gov/F/?func=direct&doc_number=1200836&local_base=GPO01PUB) | United States. Congress. House. Committee on Interior and In... | 1974 | Y 4.IN 8/14:93-41 |
+| [Broken promises: continuing federal funding shortfall for Native Americans : briefing before the United States Commissio...](https://purl.fdlp.gov/GPO/gpo171288) | [1166479](https://catalog.gpo.gov/F/?func=direct&doc_number=1166479&local_base=GPO01PUB) | No data | 2018 | CR 1.8/2:F 96 |
+| [Broken promises: continuing federal funding shortfall for Native Americans : briefing before the United States Commissio...](https://purl.fdlp.gov/GPO/gpo171288) | [1166479](https://catalog.gpo.gov/F/?func=direct&doc_number=1166479&local_base=GPO01PUB) | No data | 2018 | CR 1.8/2:F 96 |
+| [Broken promises: continuing federal funding shortfall for Native Americans : briefing before the United States Commissio...](https://purl.fdlp.gov/GPO/gpo171288) | [1166479](https://catalog.gpo.gov/F/?func=direct&doc_number=1166479&local_base=GPO01PUB) | No data | 2018 | CR 1.8/2:F 96 |
+| [Broken promises: continuing federal funding shortfall for Native Americans : briefing before the United States Commissio...](https://purl.fdlp.gov/GPO/gpo171288) | [1166479](https://catalog.gpo.gov/F/?func=direct&doc_number=1166479&local_base=GPO01PUB) | No data | 2018 | CR 1.8/2:F 96 |
+| [Broken promises: continuing federal funding shortfall for Native Americans : briefing before the United States Commissio...](https://purl.fdlp.gov/GPO/gpo171288) | [1166479](https://catalog.gpo.gov/F/?func=direct&doc_number=1166479&local_base=GPO01PUB) | No data | 2018 | CR 1.8/2:F 96 |
+| [Broken promises: continuing federal funding shortfall for Native Americans : briefing before the United States Commissio...](https://purl.fdlp.gov/GPO/gpo171288) | [1166479](https://catalog.gpo.gov/F/?func=direct&doc_number=1166479&local_base=GPO01PUB) | No data | 2018 | CR 1.8/2:F 96 |
+| [Budget justifications : Bureau of Indian Affairs](https://purl.fdlp.gov/GPO/gpo186083) | [1200996](https://catalog.gpo.gov/F/?func=direct&doc_number=1200996&local_base=GPO01PUB) | United States. Bureau of Indian Affairs | 1998 | I 20.1/5: |
+| [Budget justifications and annual performance plan : Bureau of Indian Affairs](https://purl.fdlp.gov/GPO/gpo186084) | [1200995](https://catalog.gpo.gov/F/?func=direct&doc_number=1200995&local_base=GPO01PUB) | United States. Bureau of Indian Affairs | 1999 | I 20.1/5: |
+| [Budget justifications and performance information : Bureau of Indian Affairs](https://purl.fdlp.gov/GPO/gpo186085) | [1026199](https://catalog.gpo.gov/F/?func=direct&doc_number=1026199&local_base=GPO01PUB) | United States. Bureau of Indian Affairs | No data | I 20.1/5: |
+| [H.R. 5444, "Truth and Healing Commission on Indian Boarding School Policies Act" : legislative hearing before the Subcom...](https://purl.fdlp.gov/GPO/gpo186954) | [1202037](https://catalog.gpo.gov/F/?func=direct&doc_number=1202037&local_base=GPO01PUB) | United States. Congress. House. Committee on Natural Resourc... | 2021 | Y 4.R 31/3:117-22 |
+| [H.R. 5444, "Truth and Healing Commission on Indian Boarding School Policies Act" : legislative hearing before the Subcom...](https://purl.fdlp.gov/GPO/gpo186954) | [1202037](https://catalog.gpo.gov/F/?func=direct&doc_number=1202037&local_base=GPO01PUB) | United States. Congress. House. Committee on Natural Resourc... | 2021 | Y 4.R 31/3:117-22 |
+| [H.R. 5444, "Truth and Healing Commission on Indian Boarding School Policies Act" : legislative hearing before the Subcom...](https://purl.fdlp.gov/GPO/gpo186954) | [1202037](https://catalog.gpo.gov/F/?func=direct&doc_number=1202037&local_base=GPO01PUB) | United States. Congress. House. Committee on Natural Resourc... | 2021 | Y 4.R 31/3:117-22 |
+| [H.R. 5444, "Truth and Healing Commission on Indian Boarding School Policies Act" : legislative hearing before the Subcom...](https://purl.fdlp.gov/GPO/gpo186954) | [1202037](https://catalog.gpo.gov/F/?func=direct&doc_number=1202037&local_base=GPO01PUB) | United States. Congress. House. Committee on Natural Resourc... | 2021 | Y 4.R 31/3:117-22 |
+| [Hepatitis C/HIV in Native American populations](https://purl.fdlp.gov/GPO/gpo186617) | [1201963](https://catalog.gpo.gov/F/?func=direct&doc_number=1201963&local_base=GPO01PUB) | No data | 2015 | HE 20.402:H 41/2 |
+| [Hepatitis C/HIV in Native American populations](https://purl.fdlp.gov/GPO/gpo186617) | [1201963](https://catalog.gpo.gov/F/?func=direct&doc_number=1201963&local_base=GPO01PUB) | No data | 2015 | HE 20.402:H 41/2 |
+| [High-risk : Bureau of Indian Education has addressed some management weaknesses, but additional work is needed on others...](https://purl.fdlp.gov/GPO/gpo185643) | [1194968](https://catalog.gpo.gov/F/?func=direct&doc_number=1194968&local_base=GPO01PUB) | United States. Government Accountability Office | 2022 | GA 1.13:GAO-22-106104 |
+| [Indian Self-determination and Education Assistance Act : hearings before the Subcommittee on Indian Affairs of the Commi...](https://purl.fdlp.gov/GPO/gpo185908) | [1200794](https://catalog.gpo.gov/F/?func=direct&doc_number=1200794&local_base=GPO01PUB) | United States. Congress. House. Committee on Interior and In... | 1974 | Y 4.IN 8/14:93-54 |
+| [Indian Self-determination and Education Assistance Act : hearings before the Subcommittee on Indian Affairs of the Commi...](https://purl.fdlp.gov/GPO/gpo185908) | [1200794](https://catalog.gpo.gov/F/?func=direct&doc_number=1200794&local_base=GPO01PUB) | United States. Congress. House. Committee on Interior and In... | 1974 | Y 4.IN 8/14:93-54 |
+| [Indian Self-determination and Education Assistance Act : hearings before the Subcommittee on Indian Affairs of the Commi...](https://purl.fdlp.gov/GPO/gpo185908) | [1200794](https://catalog.gpo.gov/F/?func=direct&doc_number=1200794&local_base=GPO01PUB) | United States. Congress. House. Committee on Interior and In... | 1974 | Y 4.IN 8/14:93-54 |
+| [Indian Self-determination and Education Assistance Act : hearings before the Subcommittee on Indian Affairs of the Commi...](https://purl.fdlp.gov/GPO/gpo185908) | [1200794](https://catalog.gpo.gov/F/?func=direct&doc_number=1200794&local_base=GPO01PUB) | United States. Congress. House. Committee on Interior and In... | 1974 | Y 4.IN 8/14:93-54 |
+| [Investing in native communities : transformative opportunities in the Infrastructure Investment and Jobs Act : field hea...](https://purl.fdlp.gov/GPO/gpo187055) | [1202294](https://catalog.gpo.gov/F/?func=direct&doc_number=1202294&local_base=GPO01PUB) | United States. Congress. Senate. Committee on Indian Affairs... | 2022 | Y 4.IN 2/11:S.HRG.117-352 |
+| [Investing in native communities : transformative opportunities in the Infrastructure Investment and Jobs Act : field hea...](https://purl.fdlp.gov/GPO/gpo187055) | [1202294](https://catalog.gpo.gov/F/?func=direct&doc_number=1202294&local_base=GPO01PUB) | United States. Congress. Senate. Committee on Indian Affairs... | 2022 | Y 4.IN 2/11:S.HRG.117-352 |
+| [Priority recommendations: Department of the Interior](https://purl.fdlp.gov/GPO/gpo185691) | [1200368](https://catalog.gpo.gov/F/?func=direct&doc_number=1200368&local_base=GPO01PUB) | United States. Government Accountability Office | 2022 | GA 1.13:GAO-22-105603 |
+| [Resolution of inquiry directing the Secretary of Homeland Security to transmit certain documents to the House of Represe...](https://purl.fdlp.gov/GPO/gpo186971) | [1202085](https://catalog.gpo.gov/F/?func=direct&doc_number=1202085&local_base=GPO01PUB) | United States. Congress. House. Committee on the Judiciary | 2022 | Y 1.1/8:117-489 |
+| [The American Indian and Alaska native population : 2010](https://purl.fdlp.gov/GPO/gpo185470) | [1194511](https://catalog.gpo.gov/F/?func=direct&doc_number=1194511&local_base=GPO01PUB) | Norris, Tina | 2012 | C 3.205/8:C 2010 BR-10 |
+| [The American Indian and Alaska native population : 2010](https://purl.fdlp.gov/GPO/gpo185470) | [1194511](https://catalog.gpo.gov/F/?func=direct&doc_number=1194511&local_base=GPO01PUB) | Norris, Tina | 2012 | C 3.205/8:C 2010 BR-10 |
+| [The American Indian and Alaska native population : 2010](https://purl.fdlp.gov/GPO/gpo185470) | [1194511](https://catalog.gpo.gov/F/?func=direct&doc_number=1194511&local_base=GPO01PUB) | Norris, Tina | 2012 | C 3.205/8:C 2010 BR-10 |
+| [The American Indian and Alaska native population : 2010](https://purl.fdlp.gov/GPO/gpo185470) | [1194511](https://catalog.gpo.gov/F/?func=direct&doc_number=1194511&local_base=GPO01PUB) | Norris, Tina | 2012 | C 3.205/8:C 2010 BR-10 |
+| [The American Indian and Alaska native population : 2010](https://purl.fdlp.gov/GPO/gpo185470) | [1194511](https://catalog.gpo.gov/F/?func=direct&doc_number=1194511&local_base=GPO01PUB) | Norris, Tina | 2012 | C 3.205/8:C 2010 BR-10 |
+| [The American Indian and Alaska native population : 2010](https://purl.fdlp.gov/GPO/gpo185470) | [1194511](https://catalog.gpo.gov/F/?func=direct&doc_number=1194511&local_base=GPO01PUB) | Norris, Tina | 2012 | C 3.205/8:C 2010 BR-10 |
+| [The Mesa Site : Paleoindians above the Arctic Circle](https://purl.fdlp.gov/GPO/gpo186922) | [1202236](https://catalog.gpo.gov/F/?func=direct&doc_number=1202236&local_base=GPO01PUB) | Kunz, Michael L. | 2003 | I 53.49/2:86 |
+| [The Mesa Site : Paleoindians above the Arctic Circle](https://purl.fdlp.gov/GPO/gpo186922) | [1202236](https://catalog.gpo.gov/F/?func=direct&doc_number=1202236&local_base=GPO01PUB) | Kunz, Michael L. | 2003 | I 53.49/2:86 |
+| [The long journey home : advancing the Native American Graves Protection and Repatriation Act's promise after 30 years of...](https://purl.fdlp.gov/GPO/gpo186700) | [1201665](https://catalog.gpo.gov/F/?func=direct&doc_number=1201665&local_base=GPO01PUB) | United States. Congress. Senate. Committee on Indian Affairs... | 2022 | Y 4.IN 2/11:S.HRG.117-339 |
+| [The native Hawaiian and other Pacific Islander population : 2010](https://purl.fdlp.gov/GPO/gpo185467) | [1194510](https://catalog.gpo.gov/F/?func=direct&doc_number=1194510&local_base=GPO01PUB) | Hixson, Lindsay K. (Lindsay Kae) | 2012 | C 3.205/8:C 2010 BR-12 |
+| [The native Hawaiian and other Pacific Islander population : 2010](https://purl.fdlp.gov/GPO/gpo185467) | [1194510](https://catalog.gpo.gov/F/?func=direct&doc_number=1194510&local_base=GPO01PUB) | Hixson, Lindsay K. (Lindsay Kae) | 2012 | C 3.205/8:C 2010 BR-12 |
+| [The native Hawaiian and other Pacific Islander population : 2010](https://purl.fdlp.gov/GPO/gpo185467) | [1194510](https://catalog.gpo.gov/F/?func=direct&doc_number=1194510&local_base=GPO01PUB) | Hixson, Lindsay K. (Lindsay Kae) | 2012 | C 3.205/8:C 2010 BR-12 |
+| [Upholding the federal trust responsibility : funding and program access for innovation for native Hawaiians : parts 1 an...](https://purl.fdlp.gov/GPO/gpo185669) | [1200353](https://catalog.gpo.gov/F/?func=direct&doc_number=1200353&local_base=GPO01PUB) | United States. Congress. Senate. Committee on Indian Affairs... | 2022 | Y 4.IN 2/11:S.HRG.117-318 |
+| [Upholding the federal trust responsibility : funding and program access for innovation for native Hawaiians : parts 1 an...](https://purl.fdlp.gov/GPO/gpo185669) | [1200353](https://catalog.gpo.gov/F/?func=direct&doc_number=1200353&local_base=GPO01PUB) | United States. Congress. Senate. Committee on Indian Affairs... | 2022 | Y 4.IN 2/11:S.HRG.117-318 |
+| [Upholding the federal trust responsibility : funding and program access for innovation for native Hawaiians : parts 1 an...](https://purl.fdlp.gov/GPO/gpo185669) | [1200353](https://catalog.gpo.gov/F/?func=direct&doc_number=1200353&local_base=GPO01PUB) | United States. Congress. Senate. Committee on Indian Affairs... | 2022 | Y 4.IN 2/11:S.HRG.117-318 |

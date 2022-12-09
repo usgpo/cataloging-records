@@ -2,9 +2,13 @@
 
 ------------
 
+[Historically Black Colleges and Universitites Resources Subject-Based Resources for Online items](/HBCU_Subject-Based-Resources/Terms_Lists_Records_Displays/HBCU_List_Records_Display.md)
+
+[Historically Black Colleges and Universitites Resources Subject-Based Resources for other than Online items](/HBCU_Subject-Based-Resources/Terms_Lists_Records_Displays/HBCU_List_Non-online_Records_Display.md)
+
 There are 310 subject terms, and 73 online version records retrieved.
 
-## [Historically Black Colleges and Universities Resources](/HBCU_Subject-Based-Resources/Terms_Lists_Records_Displays/HBCU_List_Records_Display.md)
+## Historically Black Colleges and Universities Resource Term List
 
 | <!-- -->                    | <!-- -->                 | <!-- -->
 ------------------------------|--------------------------|-----------------------------
