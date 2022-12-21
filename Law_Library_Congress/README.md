@@ -1,5 +1,5 @@
 
-# Law Library of Congress Reports Collection
+# Law Library of Congress Reports
 
 In April 2020, the Law Library of Congress and the U.S. Government Publishing Office (GPO) began a collaboration on a multi-year project to catalog thousands of digitized and born-digital historical legal reports. The Law Library of Congress is digitizing the reports, and GPO's Library Technical Services (LTS) is cataloging the reports. There are approximately 4,000 reports to be included in the partnership. As of September 16, 2022, LTS has cataloged 2,275 reports.
 

@@ -1,7 +1,9 @@
 
-# September 2022 FDLP Academy 1950 Census Collection
+# September 2022 FDLP Academy 1950 Census
 
-The National Archives has just created the [Official 1950 Census Website](https://1950census.archives.gov/) providing full access to the 1950 census images, including population schedules, enumeration district maps, and enumeration district descriptions.  Library Technical Services has cataloged official reports from the 1950 census on topics including population and housing which are available for download from Github.
+The National Archives has just created the [Official 1950 Census Website](https://1950census.archives.gov/) providing full access to the 19rict maps, and enumeration district descriptions. Library Technical Services is cataloging 1950 Census publications on topics including population and housing. The collection consists of online version records for 1950 Census publications. The records in the CGP may be retrieved by the CGP expert mode search:
+
+>[gvd=C 3.950?](https://catalog.gpo.gov/F/?func=find-c&ccl_term=gvd%3DC+3.950%3F+&x=0&y=0)
 
 For feedback and questions about the records, please submit an inquiry in the “Cataloging/Metadata (Policy and Records)” category via [askGPO](https://ask.gpo.gov/s/).
 

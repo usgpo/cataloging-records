@@ -1,4 +1,4 @@
-# American Indian, Alaska Native, Native Hawaiian (AIANNH) - Subject Based Resources
+# American Indian, Alaska Native, Native Hawaiian (AIANNH) - Subject Based
 
 -----------
 
