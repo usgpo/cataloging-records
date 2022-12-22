@@ -1,4 +1,4 @@
-# Records without Item Numbers
+# Online version records without Item Numbers
 
 When GPO catalogs online resources and does not include item numbers, these records are not distributed to Federal depository libraries through the item selection system. Therefore Federal depository libraries have not received these records from us. We have not provided item numbers in various situations:
 
