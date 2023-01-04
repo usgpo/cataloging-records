@@ -1,6 +1,5 @@
 # American Indian/Alaska Native/Native Hawaiian Terms
 
-
 Please send us your feedback and questions about our repository and records by submitting an inquiry in the “Cataloging/Metadata (Policy and Records)” category via [askGPO](https://ask.gpo.gov/s/).
 
 

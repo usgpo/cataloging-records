@@ -3,11 +3,9 @@
 
 The collection consists of [Catalog of U.S. Government Publications (CGP)](https://catalog.gpo.gov) online version records for publications issued by the Department of Transportation.
 
-
 Please send us your feedback and questions about our repository and records by submitting an inquiry in the “Cataloging/Metadata (Policy and Records)” category via [askGPO](https://ask.gpo.gov/s/).
 
-
-This list contains 2087 records and is current as of 12 22, 2022.
+This list contains 2087 records and is current as of 12 30, 2022.
 | *Title*       | *CGP*       | *Author*       | *Date*       | *SuDoc*
 -----------------|-----------------|-----------------|-----------------|-----------------
 | Climate change adaptation guide for transportation systems management, operations, and management. | [973165](https://catalog.gpo.gov/F/?func=direct&doc_number=973165&local_base=GPO01PUB) | No data | 2015 | TD 2.30/19:15-026 |
@@ -1799,7 +1797,7 @@ This list contains 2087 records and is current as of 12 22, 2022.
 | [Synthesis of traveler choice research : improving modeling accuracy for better transportation decisionmaking / authors, ...](https://purl.fdlp.gov/GPO/gpo41372) | [912388](https://catalog.gpo.gov/F/?func=direct&doc_number=912388&local_base=GPO01PUB) | Mahmassani, Hani S. | 2013 | TD 2.30:13-022 |
 | [Synthesis of variable speed limit signs / Bryan Katz [and five others].](https://purl.fdlp.gov/GPO/gpo85688) | [1019743](https://catalog.gpo.gov/F/?func=direct&doc_number=1019743&local_base=GPO01PUB) | Katz, Bryan | 2017 | TD 2.30/19:17-003 |
 | [System safety plan for commercial vehicles using hydrogen as an alternative fuel [electronic resource] / John M. Simon ....](https://purl.fdlp.gov/GPO/gpo6486) | [797016](https://catalog.gpo.gov/F/?func=direct&doc_number=797016&local_base=GPO01PUB) | No data | 2007 | TD 2.302:C 73/6 |
-| [Systemic safety project selection tool / authors Howard Preston and four others].](https://purl.fdlp.gov/GPO/gpo45424) | [918397](https://catalog.gpo.gov/F/?func=direct&doc_number=918397&local_base=GPO01PUB) | Preston, Howard (Howard Denis) | 2013 | TD 2.30/13:13-019 |
+| [Systemic safety project selection tool / authors Howard Preston and four others.](https://purl.fdlp.gov/GPO/gpo45424) | [918397](https://catalog.gpo.gov/F/?func=direct&doc_number=918397&local_base=GPO01PUB) | Preston, Howard (Howard Denis) | 2013 | TD 2.30/13:13-019 |
 | [TIFIA times [electronic resource].](https://purl.fdlp.gov/GPO/LPS83777) | [602847](https://catalog.gpo.gov/F/?func=direct&doc_number=602847&local_base=GPO01PUB) | No data | No data | TD 2.85: |
 | [TMIP connection [electronic resource] : the Travel Model Improvement Program newsletter.](https://purl.fdlp.gov/GPO/gpo31279) | [883231](https://catalog.gpo.gov/F/?func=direct&doc_number=883231&local_base=GPO01PUB) | Travel Model Improvement Program (U.S.) | No data | TD 2.2:T 54 |
 | [Tank car operating environment study [electronic resource] : phase I / [Kevin Koch].](https://purl.fdlp.gov/GPO/gpo20642) | [866390](https://catalog.gpo.gov/F/?func=direct&doc_number=866390&local_base=GPO01PUB) | Koch, Kevin W. | 2007 | TD 3.15:07/22 |
@@ -1910,7 +1908,7 @@ This list contains 2087 records and is current as of 12 22, 2022.
 | [Traffic incident management benefit-cost estimation tool.](https://purl.fdlp.gov/GPO/gpo63789) | [967472](https://catalog.gpo.gov/F/?func=direct&doc_number=967472&local_base=GPO01PUB) | No data | 2015 | TD 2.30:16-016 |
 | [Traffic incident management in construction and maintenance work zones / Kevin Balke.](https://purl.fdlp.gov/GPO/gpo76567) | [1007249](https://catalog.gpo.gov/F/?func=direct&doc_number=1007249&local_base=GPO01PUB) | Balke, Kevin N. | 2009 | TD 2.30/19:08-056 |
 | [Traffic incident management in hazardous materials spills in incident clearance [electronic resource] / [J. Neil Daniell...](https://purl.fdlp.gov/GPO/gpo32562) | [885122](https://catalog.gpo.gov/F/?func=direct&doc_number=885122&local_base=GPO01PUB) | Daniell, J. Neil. | 2009 | TD 2.30/19:08-058 |
-| [Traffic incident management resource management [electronic resource] / Jodi L. Carson].](https://purl.fdlp.gov/GPO/gpo34874) | [891191](https://catalog.gpo.gov/F/?func=direct&doc_number=891191&local_base=GPO01PUB) | Carson, Jodi L. (Jodi Louise) | 2009 | TD 2.30/19:08-060 |
+| [Traffic incident management resource management / Jodi L. Carson.](https://purl.fdlp.gov/GPO/gpo34874) | [891191](https://catalog.gpo.gov/F/?func=direct&doc_number=891191&local_base=GPO01PUB) | Carson, Jodi L. (Jodi Louise) | 2009 | TD 2.30/19:08-060 |
 | [Traffic monitoring : a guidebook / Shawn Turner [four others].](https://purl.fdlp.gov/GPO/gpo41653) | [912575](https://catalog.gpo.gov/F/?func=direct&doc_number=912575&local_base=GPO01PUB) | Turner, Shawn | 2010 | TD 2.30/25:10-002 |
 | [Traffic monitoring guide.](https://purl.fdlp.gov/GPO/gpo47716) | [923882](https://catalog.gpo.gov/F/?func=direct&doc_number=923882&local_base=GPO01PUB) | United States. Federal Highway Administration | 2013 | TD 2.30/5:13-015 |
 | [Traffic monitoring in recreational areas / authors, Shawn Turner [and four others].](https://purl.fdlp.gov/GPO/gpo41990) | [912570](https://catalog.gpo.gov/F/?func=direct&doc_number=912570&local_base=GPO01PUB) | Turner, Shawn | 2010 | TD 2.30/25:10-003 |
@@ -2045,7 +2043,7 @@ This list contains 2087 records and is current as of 12 22, 2022.
 | [Vehicle data recorders [electronic resource].](https://purl.fdlp.gov/GPO/gpo6370) | [798543](https://catalog.gpo.gov/F/?func=direct&doc_number=798543&local_base=GPO01PUB) | No data | 2006 | TD 2.302:V 53/2 |
 | [Vehicle immobilization technologies [electronic resource] : best practices for industry and law enforcement / [Oscar Fra...](https://purl.fdlp.gov/GPO/gpo8284) | [796935](https://catalog.gpo.gov/F/?func=direct&doc_number=796935&local_base=GPO01PUB) | No data | 2007 | TD 2.302:V 53 |
 | [Vehicle positioning, navigation, and timing : leveraging results from EAR program-sponsored research / David Bevly and J...](https://purl.fdlp.gov/GPO/gpo45296) | [903651](https://catalog.gpo.gov/F/?func=direct&doc_number=903651&local_base=GPO01PUB) | Bevly, David M. | 2013 | TD 2.30:13-052 |
-| [Vehicle-to-Everything Hub : final report / Animesh Balse {and four others].](https://purl.fdlp.gov/GPO/gpo157048) | [1158948](https://catalog.gpo.gov/F/?func=direct&doc_number=1158948&local_base=GPO01PUB) | Balse, Animesh | 2021 | TD 2.30:21-035 |
+| [Vehicle-to-Everything Hub : final report / Animesh Balse and four others.](https://purl.fdlp.gov/GPO/gpo157048) | [1158948](https://catalog.gpo.gov/F/?func=direct&doc_number=1158948&local_base=GPO01PUB) | Balse, Animesh | 2021 | TD 2.30:21-035 |
 | [Vehicle-to-vehicle communications : readiness of V2V technology for application.](https://purl.fdlp.gov/GPO/gpo51512) | [933856](https://catalog.gpo.gov/F/?func=direct&doc_number=933856&local_base=GPO01PUB) | No data | 2014 | TD 8.67:812 014 |
 | [Video gambling in foreign air transportation [electronic resource] : safety effects, competitive consequences, bilateral...](https://purl.fdlp.gov/GPO/LPS21171) | [901951](https://catalog.gpo.gov/F/?func=direct&doc_number=901951&local_base=GPO01PUB) | No data | 1996 | TD 1.2:2002022119 |
 | [Visualizing railroad operations [electronic resource] : a tool for planning and monitoring railroad traffic / [Mary T. L...](http://www.fra.dot.gov/downloads/Research/ord0901.pdf) | [863363](https://catalog.gpo.gov/F/?func=direct&doc_number=863363&local_base=GPO01PUB) | Lee, Mary T. | 2009 | TD 3.15:09/01 |

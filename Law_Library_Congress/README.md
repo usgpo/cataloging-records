@@ -15,12 +15,9 @@ Law Library of Congress, In Custodia Legis Blog post, Celebrating over [3,000 Hi
 
 See more publications of the Law Library of Congress in the CGP by [this expert mode search, gvd=“LC 42?”](https://catalog.gpo.gov/F/?func=find-c&ccl_term=gvd%3D%22LC+42%3F%22&x=0&y=0)
 
-
-
 Please send us your feedback and questions about our repository and records by submitting an inquiry in the “Cataloging/Metadata (Policy and Records)” category via [askGPO](https://ask.gpo.gov/s/).
 
-
-This list contains 2643 records and is current as of December 22, 2022.
+This list contains 2643 records and is current as of December 30, 2022.
 
 | *Title*       | *CGP*       | *Author*       | *Date*       | *SuDoc*
 -----------------|-----------------|-----------------|-----------------|-----------------
