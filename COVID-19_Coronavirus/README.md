@@ -1,15 +1,12 @@
-#COVID-19 and Coronavirus
+# COVID-19 and Coronavirus
 
 The collection consists of CGP online version records for publications on COVID-19 and coronavirus. Local MARC 922 fields enable retrieval of the records via the CGP expert mode search:
 
 >[wlts=COVID19CORONAVIRUS](https://catalog.gpo.gov/F/?func=find-c&ccl_term=wlts%3Dcovid19coronavirus&x=51&y=11)
 
-
 Please send us your feedback and questions about our repository and records by submitting an inquiry in the “Cataloging/Metadata (Policy and Records)” category via [askGPO](https://ask.gpo.gov/s/).
 
-
-
-This list contains 938 records and is current as of December 22, 2022.
+This list contains 938 records and is current as of December 30, 2022.
 | *Title*       | *CGP*       | *Author*       | *Date*       | *SuDoc*
 -----------------|-----------------|-----------------|-----------------|-----------------
 | ["Disaster diplomacy" and the US response to COVID-19 / C. Anthony Pfaff.](https://purl.fdlp.gov/GPO/gpo137282) | [1121042](https://catalog.gpo.gov/F/?func=direct&doc_number=1121042&local_base=GPO01PUB) | Pfaff, C. Anthony | 2020 | D 101.146:C 81 |

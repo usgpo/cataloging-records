@@ -6,11 +6,9 @@ Local MARC 922 fields enable retrieval of the records via the CGP expert mode se
 
 >[wlts=CRSREP](https://catalog.gpo.gov/F/?func=find-c&ccl_term=wlts+%3D+%28+CRSREP+%29&local_base=GPO01PUB&x=46&y=10)
 
-
 Please send us your feedback and questions about our repository and records by submitting an inquiry in the “Cataloging/Metadata (Policy and Records)” category via [askGPO](https://ask.gpo.gov/s/).
 
-
-As of December 22, 2022, the GPO has cataloged 8,242 CRS reports.| *Title*       | *CGP*       | *Author*       | *Date*       | *SuDoc*
+As of December 30, 2022, the GPO has cataloged 8,242 CRS reports.| *Title*       | *CGP*       | *Author*       | *Date*       | *SuDoc*
 -----------------|-----------------|-----------------|-----------------|-----------------
 | ["Affirmative action" and equal protection in higher education / Christine J. Back, JD S. Hsin.](https://purl.fdlp.gov/GPO/gpo117492) | [1094911](https://catalog.gpo.gov/F/?func=direct&doc_number=1094911&local_base=GPO01PUB) | Back, Christine J. | 2019 | LC 14.23:R 45481/ |
 | ["Dear colleague" letters in the House of Representatives : past practices and issues for Congress / Jacob R. Straus.](https://purl.fdlp.gov/GPO/gpo118035) | [1096082](https://catalog.gpo.gov/F/?func=direct&doc_number=1096082&local_base=GPO01PUB) | Straus, Jacob R. | 2018 | LC 14.23:R 44768/ |

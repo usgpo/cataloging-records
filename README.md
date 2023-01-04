@@ -14,21 +14,24 @@ The collections in the repository have been created based on various criteria, s
 MARC record files are offered in **UTF-8** and **MARCXML** formats.  
 
 To download the files, use the “Code” button in the right-hand section of this page and select “Download ZIP.” The ZIP file contains all of the files in the repository.
-  
+
 ## Collections List
 
-- [1950 Census](https://github.com/usgpo/cataloging-records/tree/main/1950_Census_Collection)
-- [American Indian, Alaska Native, and Native Hawaiian (AIANNH) Subject Based Resources](https://github.com/usgpo/cataloging-records/tree/main/AIANNH_Subject-Based-Resources)
-- [CGP MARC Record Sets](https://github.com/usgpo/cataloging-records/tree/main/CGP_MARC_Records)
-- [CGP Records with Updated PURLS](https://github.com/usgpo/cataloging-records/tree/main/CGP_Records_with_Updated_PURLs)
-- [Congressional Research Service Reports](https://github.com/usgpo/cataloging-records/tree/main/Congressional_Research_Service_Reports)
-- [COVID-19 and Coronavirus Resources](https://github.com/usgpo/cataloging-records/tree/main/COVID-19_Coronavirus)
-- [Department of Transportation Resources](https://github.com/usgpo/cataloging-records/tree/main/Department_of_Transportation)
-- [Historically Black Colleges and Universities (HBCU) Subject Based Resources](https://github.com/usgpo/cataloging-records/tree/main/HBCU_Subject-Based-Resources)
-- [Law Library of Congress Reports Collection](https://github.com/usgpo/cataloging-records/tree/main/Law_Library_Congress)
-- [National Institue of Standards and Technology (NIST) Collection](https://github.com/usgpo/cataloging-records/tree/main/NIST_Collection)
-- [Online FDLP Basic Collection](https://github.com/usgpo/cataloging-records/tree/main/Online_FDLP_Basic_Collection)
-- [Online Version Records without Item Numbers](https://github.com/usgpo/cataloging-records/tree/main/Online_version_records_without_item_numbers)
+| *Collection*       | *No. of Records*       | *Last Update*       | *Record Formats*       | *Cataloged Dates*
+-----------------|-----------------|-----------------|-----------------|-----------------
+| [1950 Census](https://github.com/usgpo/cataloging-records/tree/main/1950_Census_Collection) | 25 | 10/31/2022 | Online | All |
+| [American Indian, Alaska Native, and Native Hawaiian (AIANNH) Subject Based Resources](https://github.com/usgpo/cataloging-records/tree/main/AIANNH_Subject-Based-Resources) | 262 | 10/31/2022 | Online | 9-11/2022 |
+| [CGP MARC Record Sets](https://github.com/usgpo/cataloging-records/tree/main/CGP_MARC_Records) | 22176 | 10/31/2022 | All |  |
+| [CGP Records with Updated PURLs](https://github.com/usgpo/cataloging-records/tree/main/CGP_Records_with_Updated_PURLs) | 170501 | 11/6/2020 | Online | Up to 10/31/2020 |
+| [Congressional Research Service Reports](https://github.com/usgpo/cataloging-records/tree/main/Congressional_Research_Service_Reports) | 8242 | 10/31/2022 | Online | All |
+| [COVID-19 and Coronavirus Resources](https://github.com/usgpo/cataloging-records/tree/main/COVID-19_Coronavirus) | 938 | 10/31/2022 | Online | All |
+| [Department of Transportation Resources](https://github.com/usgpo/cataloging-records/tree/main/Department_of_Transportation) | 2087 | 10/31/2022 | Online | All |
+| [Historically Black Colleges and Universities (HBCU) Subject Based Resources](https://github.com/usgpo/cataloging-records/tree/main/HBCU_Subject-Based-Resources) | 29 | 10/31/2022 | Online | 9-11/2022 |
+| [Historically Black Colleges and Universities (HBCU) Subject Based Resources](https://github.com/usgpo/cataloging-records/tree/main/HBCU_Subject-Based-Resources) | 29 | 10/31/2022 | Tangible | 9-11/2022 |
+| [Law Library of Congress Reports Collection](https://github.com/usgpo/cataloging-records/tree/main/Law_Library_Congress) | 2643 | 10/31/2022 | Online | All |
+| [National Institue of Standards and Technology (NIST) Collection](https://github.com/usgpo/cataloging-records/tree/main/NIST_Collection) | 8897 | 11/2020 | Online | 2016 |
+| [Online FDLP Basic Collection](https://github.com/usgpo/cataloging-records/tree/main/Online_FDLP_Basic_Collection) | 23 | 10/31/2022 | Online | All |
+| [Online Version Records without Item Numbers](https://github.com/usgpo/cataloging-records/tree/main/Online_version_records_without_item_numbers) | 14453 | 10/31/2022 | Online | All |
 
 ## Contact Information
 

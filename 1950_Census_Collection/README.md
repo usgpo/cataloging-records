@@ -7,7 +7,7 @@ The National Archives and Records Administration's Official [1950 Census Website
 
 Please send us your feedback and questions about our repository and records by submitting an inquiry in the “Cataloging/Metadata (Policy and Records)” category via [askGPO](https://ask.gpo.gov/s/).
 
-This list contains 25 records, and is current as of December 22, 2022.
+This list contains 25 records, and is current as of December 30, 2022.
 
 | *Title*       | *CGP*       | *Author*       | *Date*       | *SuDoc*
 -----------------|-----------------|-----------------|-----------------|-----------------

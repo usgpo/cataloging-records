@@ -3,13 +3,11 @@
 
 ------------
 
-`Click list names to see a display of CGP records with those subject headings.`
-
+Library Technical Services' Customized Record Sets working group collaborated with the [Tuskegee University Main Library & Archives](https://tusk.ent.sirsi.net/client/en_US/home) and the [University of Kansas Project on the History of Black Writing](https://hbw.ku.edu/) to compile a list of LCSH terms, genre forms, and recommended subject headings to test methods of providing notification of newly cataloged online publications added to the [Catalog of U.S. Government Publications (CGP)](https://catalog.gpo.gov). The Historically Black Colleges and Universities (HBCU) - Subject-Based Online Resources feature metadata and PURLs for publications and will include a listing of key topics and resources held in HBCU collections.
 
 Please send us your feedback and questions about our repository and records by submitting an inquiry in the “Cataloging/Metadata (Policy and Records)” category via [askGPO](https://ask.gpo.gov/s/).
 
-
-This list contains 29 records and is current as of 12 22, 2022.
+This list contains 29 records and is current as of 12 30, 2022.
 | *Title*       | *CGP*       | *Author*       | *Date*       | *SuDoc*
 -----------------|-----------------|-----------------|-----------------|-----------------
 | [A program guide for climate leaders.](https://purl.fdlp.gov/GPO/gpo185751) | [797487](https://catalog.gpo.gov/F/?func=direct&doc_number=797487&local_base=GPO01PUB) | No data | No data | EP 4.8:C 61/ |
