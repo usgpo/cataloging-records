@@ -4,9 +4,9 @@
 
 Library Technical Services' Customized Record Sets working group collaborated with the [Tuskegee University Main Library & Archives](https://tusk.ent.sirsi.net/client/en_US/home) and the [University of Kansas Project on the History of Black Writing](https://hbw.ku.edu/) to compile a list of LCSH terms, genre forms, and recommended subject headings to test methods of providing notification of newly cataloged online and tangible publications added to the [Catalog of U.S. Government Publications (CGP)](https://catalog.gpo.gov). The Historically Black Colleges and Universities (HBCU) - Subject-Based Resources feature metadata and PURLs for publications and will include a listing of key topics and resources held in HBCU collections.
 
-[Historically Black Colleges and Universitites Resources Subject-Based Resources for Online items](/HBCU_Subject-Based-Resources/Terms_Lists_Records_Displays/HBCU_List_Records_Display.md)
+[Historically Black Colleges and Universitites Resources Subject-Based Resources for Online items](/HBCU_Subject-Based-Resources/Terms_Lists_Records_Displays/HBCU_Subject-Based_Online_Resources.md)
 
-[Historically Black Colleges and Universitites Resources Subject-Based Resources for Tangible items](/HBCU_Subject-Based-Resources/Terms_Lists_Records_Displays/HBCU_List_Non-online_Records_Display.md)
+[Historically Black Colleges and Universitites Resources Subject-Based Resources for Tangible items](/HBCU_Subject-Based-Resources/Terms_Lists_Records_Displays/HBCU_Subject-Based_Tangible_Resources.md)
 
 There are 310 subject terms, and 73 online version records retrieved.
 
