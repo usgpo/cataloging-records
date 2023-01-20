@@ -8,7 +8,7 @@ Library Technical Services' Customized Record Sets working group collaborated wi
 
 [Historically Black Colleges and Universitites Resources Subject-Based Resources for Tangible items](/HBCU_Subject-Based-Resources/Terms_Lists_Records_Displays/HBCU_Subject-Based_Tangible_Resources.md)
 
-There are 310 subject terms, and 73 online version records retrieved.
+There are 310 subject terms listed.
 
 ## Historically Black Colleges and Universities Resource Term List
 
