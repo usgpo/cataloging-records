@@ -1,7 +1,7 @@
 
 # 1950 Census
 
-The National Archives and Records Administration's Official [1950 Census Website]((https://1950census.archives.gov/)) provides access to the 1950 census images, including population schedules, enumeration district maps, and enumeration district descriptions. Library Technical Services is cataloging 1950 Census publications on topics including population and housing. The collection consists of online version records for 1950 Census publications. The records in the CGP may be retrieved by the CGP expert mode search:
+The National Archives and Records Administration's Official [1950 Census Website](https://1950census.archives.gov/) provides access to the 1950 census images, including population schedules, enumeration district maps, and enumeration district descriptions. Library Technical Services is cataloging 1950 Census publications on topics including population and housing. The collection consists of online version records for 1950 Census publications. The records in the CGP may be retrieved by the CGP expert mode search:
 
 >[gvd=C 3.950?](https://catalog.gpo.gov/F/?func=find-c&ccl_term=gvd%3DC+3.950%3F+&x=0&y=0)
 
