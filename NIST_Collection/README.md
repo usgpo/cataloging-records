@@ -6,7 +6,7 @@ Library Technical Services staff reviewed and analyzed the records and enhanced 
 
 The records can be retrieved in the Catalog of U.S. Government Publications by this search in the expert mode: [wlts=Nist-1](https://catalog.gpo.gov/F/?func=find-c&ccl_term=wlts%3Dnist-1&x=0&y=0)
 
-The records are available in UTF-8, MARC-8, and MARCXML. 
+The records are available in UTF-8, MARC-8, and MARCXML.
 
 ## Record Sets
 
@@ -36,4 +36,4 @@ The records are available in UTF-8, MARC-8, and MARCXML.
 | C 13.58 | NBSIR | NBS interagency or internal reports | 0247-D | 1972-1988 | 3,243
 | C 13.58 | NISTIR | NIST Interagency or Internal Reports | 0247-D | 1988-2016 | 1,447
 
-Please send us your feedback and questions about our repository and records via [askGPO](https://ask.gpo.gov/s/) > Federal Depository Library Program > Cataloging/Metadata (Policy and Records) category.
+Please send us your feedback and questions about our repository and records by submitting an inquiry in the “Cataloging/Metadata (Policy and Records)” category via [askGPO](https://ask.gpo.gov/s/).
