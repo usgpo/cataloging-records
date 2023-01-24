@@ -6,9 +6,9 @@ Local MARC 922 fields enable retrieval of the records via the CGP expert mode se
 
 >[wlts=CRSREP](https://catalog.gpo.gov/F/?func=find-c&ccl_term=wlts+%3D+%28+CRSREP+%29&local_base=GPO01PUB&x=46&y=10)
 
-Please send us your feedback and questions about our repository and records by submitting an inquiry in the “Cataloging/Metadata (Policy and Records)” category via [askGPO](https://ask.gpo.gov/s/).
+Please send us your feedback and questions about our repository and records by submitting an inquiry in the `Cataloging/Metadata (Policy and Records)` category via [askGPO](https://ask.gpo.gov/s/).
 
-This list contains 8,241 records, and is current as of January 20, 2023.
+This list contains 8,241 records, and is current as of January 24, 2023.
 
 ----
 | *Title*       | *CGP*       | *Author*       | *Date*       | *SuDoc*
@@ -916,7 +916,7 @@ This list contains 8,241 records, and is current as of January 20, 2023.
 | [CRISPR gene editing research in embryos generates scientific and ethics debate / John F. Sargent Jr., Amanda K. Sarata, ...](https://purl.fdlp.gov/GPO/gpo145528) | [1129707](https://catalog.gpo.gov/F/?func=direct&doc_number=1129707&local_base=GPO01PUB) | Sargent, John F. | 2018 | LC 14.25/2:IN 10773/ |
 | [CRS Series: introduction to financial services--117th Congress / Marc Labonte, Raj Gnanarajah.](https://purl.fdlp.gov/GPO/gpo151759) | [1137117](https://catalog.gpo.gov/F/?func=direct&doc_number=1137117&local_base=GPO01PUB) | Labonte, Marc | 2019 | LC 14.25/2:IN 11016/ |
 | [CRS products on the North American Free Trade Agreement (NAFTA) / M. Angeles Villarreal.](https://purl.fdlp.gov/GPO/gpo145533) | [1129716](https://catalog.gpo.gov/F/?func=direct&doc_number=1129716&local_base=GPO01PUB) | Villarreal, M. Angeles | 2018 | LC 14.25/2:IN 10903/ |
-| [CRS reports / Congressional Research Service.](https://purl.fdlp.gov/GPO/gpo109124) | [1080373](https://catalog.gpo.gov/F/?func=direct&doc_number=1080373&local_base=GPO01PUB) | None | No data | LC 14.23/2: |
+| [CRS reports / Congressional Research Service.](https://purl.fdlp.gov/GPO/gpo109124) | [1080373](https://catalog.gpo.gov/F/?func=direct&doc_number=1080373&local_base=GPO01PUB) | No data | No data | LC 14.23/2: |
 | [CRS resources on the FY2014 funding gap, shutdown, and status of appropriations / Justin Murray.](https://purl.fdlp.gov/GPO/gpo122080) | [1101286](https://catalog.gpo.gov/F/?func=direct&doc_number=1101286&local_base=GPO01PUB) | Murray, Justin (Librarian) | 2018 | LC 14.23:R 43250/ |
 | [Cable and satellite television issues in the 116th Congress / Dana A. Scherer.](https://purl.fdlp.gov/GPO/gpo133091) | [1116924](https://catalog.gpo.gov/F/?func=direct&doc_number=1116924&local_base=GPO01PUB) | Scherer, Dana A. | 2018 | LC 14.24:IF 11053/ |
 | [Cabo Verde: background and U.S. relations / Nicolas Cook, Tomas F. Husted.](https://purl.fdlp.gov/GPO/gpo125238) | [1105714](https://catalog.gpo.gov/F/?func=direct&doc_number=1105714&local_base=GPO01PUB) | Cook, Nicolas | 2019 | LC 14.23:R 44756/ |
