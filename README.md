@@ -20,7 +20,7 @@ To download the files, use the “Code” button in the right-hand section of th
 :-----------------|:-----------------:|:-----------------:|:-----------------:|:-----------------:
 | [1950 Census](https://github.com/usgpo/cataloging-records/tree/main/1950_Census_Collection) | 22 | 1/24/2023 | Online | All |
 | [American Indian, Alaska Native, and Native Hawaiian (AIANNH) Subject-Based Resources](https://github.com/usgpo/cataloging-records/tree/main/AIANNH_Subject-Based-Resources) | 224 | 1/24/2023 | Online | 10-12/2022 |
-| [CGP MARC Record Sets](https://github.com/usgpo/cataloging-records/tree/main/CGP_MARC_Records) | 22,176 | Previous six months | All |  |
+| [CGP MARC Record Sets](https://github.com/usgpo/cataloging-records/tree/main/CGP_MARC_Records) | 22,176 | 1/24/2023 | All | Previous six months |
 | [CGP Records with Updated PURLs](https://github.com/usgpo/cataloging-records/tree/main/CGP_Records_with_Updated_PURLs) | 170,501 | 11/6/2020 | Online | Up to 10/31/2020 |
 | [Congressional Research Service Reports](https://github.com/usgpo/cataloging-records/tree/main/Congressional_Research_Service_Reports) | 8,241 | 1/24/2023 | Online | All |
 | [COVID-19 and Coronavirus Resources](https://github.com/usgpo/cataloging-records/tree/main/COVID-19_Coronavirus) | 937 | 1/24/2023 | Online | All |
