@@ -12,7 +12,7 @@ This list contains 8,241 records, and is current as of January 24, 2023.
 
 ----
 | *Title*       | *CGP*       | *Author*       | *Date*       | *SuDoc*
------------------|-----------------|-----------------|-----------------|-----------------
+:-----------------|:-----------------:|:-----------------:|:-----------------:|:-----------------:
 | ["Affirmative action" and equal protection in higher education / Christine J. Back, JD S. Hsin.](https://purl.fdlp.gov/GPO/gpo117492) | [1094911](https://catalog.gpo.gov/F/?func=direct&doc_number=1094911&local_base=GPO01PUB) | Back, Christine J. | 2019 | LC 14.23:R 45481/ |
 | ["Dear colleague" letters in the House of Representatives : past practices and issues for Congress / Jacob R. Straus.](https://purl.fdlp.gov/GPO/gpo118035) | [1096082](https://catalog.gpo.gov/F/?func=direct&doc_number=1096082&local_base=GPO01PUB) | Straus, Jacob R. | 2018 | LC 14.23:R 44768/ |
 | ["Dirty bombs" : background in brief / Mary Beth D. Nikitin.](https://purl.fdlp.gov/GPO/gpo126208) | [1106885](https://catalog.gpo.gov/F/?func=direct&doc_number=1106885&local_base=GPO01PUB) | Nikitin, Mary Beth Dunham | 2018 | LC 14.23:R 41891/ |
