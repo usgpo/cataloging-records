@@ -1,7 +1,5 @@
 # Oil and Gas Drilling Terms
 
-Please send us your feedback and questions about our repository and records by submitting an inquiry in the `Cataloging/Metadata (Policy and Records)` category via [askGPO](https://ask.gpo.gov/s/).
-
 This list contains 20 records, and is current as of January 24, 2023.
 
 ----
