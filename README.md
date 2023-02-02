@@ -32,7 +32,7 @@ To download the files, use the “Code” button in the right-hand section of th
 | [National Institue of Standards and Technology (NIST) Collection](https://github.com/usgpo/cataloging-records/tree/main/NIST_Collection) | 8,897 | 11/2020 | Online | 2016 |
 | [Online FDLP Basic Collection](https://github.com/usgpo/cataloging-records/tree/main/Online_FDLP_Basic_Collection) | 23 | 3/2021 | Online | All |
 | [Online Version Records without Item Numbers](https://github.com/usgpo/cataloging-records/tree/main/Online_version_records_without_item_numbers) | 4,959 | 10/31/2022 | Online | All |
-| **Total Number of Records** | **220,789**
+| **Total Number of Records** | **220,826**
 ------------
 
 ## Contact Information
