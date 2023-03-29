@@ -28,7 +28,6 @@ To download the files, use the “Code” button in the right-hand section of th
 | [Historically Black Colleges and Universities (HBCU) Subject-Based Resources](https://github.com/usgpo/cataloging-records/tree/main/HBCU_Subject-Based-Resources) | 41 | 10/31/2022 | All | 9-11/2022 |
 | [House Select Committee to Investigate the January 6th Attack on the United States Capitol Collection](https://github.com/usgpo/cataloging-records/tree/main/jan6_committee) | 42 | 01/12/2023 | Online | All |
 | [Law Library of Congress Reports Collection](https://github.com/usgpo/cataloging-records/tree/main/Law_Library_Congress) | 2,643 | 1/24/2023 | Online | All |
-| [Microfiche format records to be deleted](https://github.com/usgpo/cataloging-records/tree/main/Deleted_Microfiche) | 37 | 1/24/2023 | Microfiche | All |
 | [National Institue of Standards and Technology (NIST) Collection](https://github.com/usgpo/cataloging-records/tree/main/NIST_Collection) | 8,897 | 11/2020 | Online | 2016 |
 | [Online FDLP Basic Collection](https://github.com/usgpo/cataloging-records/tree/main/Online_FDLP_Basic_Collection) | 23 | 3/2021 | Online | All |
 | [Online Version Records without Item Numbers](https://github.com/usgpo/cataloging-records/tree/main/Online_version_records_without_item_numbers) | 4,959 | 10/31/2022 | Online | All |
