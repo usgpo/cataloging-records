@@ -29,7 +29,7 @@ To download the files, use the “Code” button in the right-hand section of th
 | [Law Library of Congress Reports Collection](https://github.com/usgpo/cataloging-records/tree/main/Law_Library_Congress) | 2,643 | 1/24/2023 | Online | All |
 | [National Institue of Standards and Technology (NIST) Collection](https://github.com/usgpo/cataloging-records/tree/main/NIST_Collection) | 8,897 | 11/2020 | Online | 2016 |
 | [Online FDLP Basic Collection](https://github.com/usgpo/cataloging-records/tree/main/Online_FDLP_Basic_Collection) | 23 | 3/2021 | Online | All |
-| **Total Number of Records** | **23,153**
+| **Total Number of Records** | **45,329**
 ------------
 
 ## Contact Information
