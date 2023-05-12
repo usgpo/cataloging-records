@@ -6,7 +6,7 @@ Library Technical Services staff reviewed and analyzed the records and enhanced 
 
 The records can be retrieved in the Catalog of U.S. Government Publications by this search in the expert mode: [wlts=Nist-1](https://catalog.gpo.gov/F/?func=find-c&ccl_term=wlts%3Dnist-1&x=0&y=0)
 
-The records are available in UTF-8, MARC-8, and MARCXML.
+The records are available in UTF-8, MARC-8, and MARC XML.
 
 ## Record Sets
 
