@@ -28,7 +28,7 @@ The ten collections in the repository have been created based on various criteri
 To download the files, use the "Code" button in the right-hand section of this page and select "Download ZIP." The ZIP file contains all of the files in the repository.
 
 | *Name*       | *No. of Records*       | *Last Update*       | *Record Formats*       | *Cataloging Dates*
-:-----------------|:-----------------:|:-----------------:|:-----------------:|:-----------------:
+:-----------------|:-----------------|:-----------------|:-----------------|:-----------------
 | [1950 Census](https://github.com/usgpo/cataloging-records/tree/main/1950_Census_Collection) | 22 | 1/24/2023 | Online | All |
 | [American Indian, Alaska Native, and Native Hawaiian (AIANNH) Subject-Based Resources](https://github.com/usgpo/cataloging-records/tree/main/AIANNH_Subject-Based-Resources) | 224 | 1/24/2023 | Online | 10-12/2022 |
 | [CGP MARC Record Sets](https://github.com/usgpo/cataloging-records/tree/main/CGP_MARC_Records) | 22,176 | 1/24/2023 | All | Previous six months |
@@ -54,7 +54,7 @@ LTS has retired these collections:
 Please check the list to see if the collections are available in another repository.
 
 | *Name*       | *No. of Records*       | Current Repository | *Record Formats*       | *Cataloging Dates*
-:-----------------|:-----------------:|:-----------------:|:-----------------:|:-----------------:
+:-----------------|:-----------------|:-----------------|:-----------------|:-----------------
 | CGP MARC Record Sets | 22,176 | [Catalog of U.S. Government Publications (CGP) Records Maintenance Files](https://github.com/usgpo/cataloging-records-CGP-maintenance-files) | All | Previous six months |
 | CGP Records with Updated PURLs | 170,501 | None | Online | Up to 10/31/2020 |
 | Online Version Records without Item Numbers | 4,959 | [Catalog of U.S. Government Publications (CGP) Records Maintenance Files](https://github.com/usgpo/cataloging-records-CGP-maintenance-files) | Online | All |
@@ -68,9 +68,9 @@ GitHub uses a versioning system to provide access to the iterations of a reposit
 
 - Click or tap on "commits" in the top right-hand section of the page
   - ![Image shows pointer to 'commits' link in upper right-hand of main file list](/images/commit_history_link.png)
-- On the "Commits" page, choose the date of the version to be retrieved and then click or tap the "Browse the repository at this point" link.
+- On the "Commits" page, choose the date of the version to be retrieved and then click or tap the "Browse the repository at this point in the history" link.
   - ![Image shows pointer to "Browse the repository at this point in the history" link](/images/browse_history_link.png)
-- The resources in the repository on that date will be available for downloading.
+- The resources in the repository on that date will be available for viewing  and downloading.
 
 **To see a list of versions of a particular collection, follow these steps:**
 
@@ -78,16 +78,10 @@ GitHub uses a versioning system to provide access to the iterations of a reposit
 - Click or tap on "History" in the top right-hand corner of the collection page.
   - ![Image shows the "History" link on ](/images/collections_history_link.png)
 - On the "History" page, choose the date of the version to be retrieved.
-- Click or tap on the "View at this point in the history" icon.
+- Click or tap on the "Browse the repository at this point in the history" icon.
   - ![Image shows pointer to "Browse the repository at this point in the history" link](/images/browse_historical_collections.png)
 - The main page of the repository on that date will be displayed.
-- The resources in the repository on that date will be available for downloading.
-
-## Contact Information
-
-Library Services & Content Management (LSCM) of the U.S. Government Publishing Office created this repository. Library Technical Services (LTS), a department of LSCM, creates and maintains the collections in the repository.
-
-Please send us your feedback and questions about our repository and records by submitting an inquiry in the `Cataloging/Metadata (Policy and Records)` category via [askGPO](https://ask.gpo.gov/s/).
+- The resources in the repository on that date will be available for viewing and downloading.
 
 ## Other LSCM Repositories
 
@@ -98,3 +92,9 @@ LSCM also maintains and develops five other repositories:
 - [All CGP Records (MARC XML)](https://github.com/usgpo/cataloging-records-all-cgp-marcxml)
 - [U.S. Congressional Serial Set Project (MARC UTF-8)](https://github.com/usgpo/cataloging-records-serial-set-utf8)
 - [U.S. Congressional Serial Set Project (MARC XML)](https://github.com/usgpo/cataloging-records-serial-set-marcxml)
+
+## Contact Information
+
+Library Services & Content Management (LSCM) of the U.S. Government Publishing Office created this repository. Library Technical Services (LTS), a department of LSCM, creates and maintains the collections in the repository.
+
+Please send your feedback and questions about our repository and records to LTS by submitting an inquiry in the Cataloging/Metadata (Policy and Records) category via [askGPO](https://ask.gpo.gov/s/).
