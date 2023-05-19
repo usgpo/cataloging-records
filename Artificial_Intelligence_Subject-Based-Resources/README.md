@@ -4,24 +4,10 @@ A collection consisting of online version records containing one or more of the 
 
 - Artificial intelligence
 - Machine learning
-- Natural language processing
-- Agents, Autonomous (Computer software)
-- Agents, Cognitive (Computer software)
-- Agents, Intelligent (Computer software)
-- Assistants, Cognitive (Computer software)
-- Assistants, Intelligent software
-- Autonomous agents (Computer software)
-- Autonomous weapons systems -- International law
+- Natural language processing (Computer Science)
+- Autonomous weapons systems (International law)
 - Autonomous weapons systems
-- Cognitive agents (Computer software)
-- Cognitive assistants (Computer software)
-- IAs (Computer software)
 - Intelligent agents (Computer software)
-- Intelligent agent software
-- Intelligent software agents
-- Intelligent software assistants
-- Software agents (Computer software)
-- Special agents (Computer software)
 
 Please send us your feedback and questions about our repository and records by submitting an inquiry in the `Cataloging/Metadata (Policy and Records)` category via [askGPO](https://ask.gpo.gov/s/).
 
