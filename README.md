@@ -2,7 +2,7 @@
 
 ## General Information
 
-The **CGP on GitHub** is a repository of cataloging/metadata resources extracted from the bibliographic records of the  [Catalog of U.S. Government Publications (CGP)](https://catalog.gpo.gov). The CGP is the U.S. Government Publishing Office's (GPO) finding tool for publications of the executive, judicial, and legislative branches, and other entities of the U.S. Federal Government. The CGP records comprise the National Bibliography of U.S. Government Publications and contain descriptive and subject information to enable the discovery of these resources. Many CGP records provide PURL (persistent uniform resource locator) links to the online versions of publications. For more information, please visit the CGP [help pages](https://catalog.gpo.gov/cgphelp/en/help.html).
+The **CGP on GitHub** is a repository of cataloging/metadata resources extracted from the bibliographic records of the  [Catalog of U.S. Government Publications (CGP)](https://catalog.gpo.gov). The CGP is the U.S. Government Publishing Office's (GPO) finding tool for publications of the executive, judicial, and legislative branches, and other entities of the U.S. Federal Government. The CGP records comprise the [National Collection of U.S. Government Public Information](https://www.fdlp.gov/about-the-fdlp/the-national-collection) and contain descriptive and subject information to enable the discovery of these resources. Many CGP records provide PURL (persistent uniform resource locator) links to the online versions of publications. For more information, please visit the CGP [help pages](https://catalog.gpo.gov/cgphelp/en/help.html).
 
 ## Repository Updates
 
@@ -15,7 +15,7 @@ LTS has retired the [Online Version Records without Item Numbers](https://github
 
 ## Collections List
 
-The ten collections in the repository have been created based on various criteria, such as issuing agencies, publication formats, and topical and chronological coverage. All collections contain one or more of these resources:
+The eleven collections in the repository have been created based on various criteria, such as issuing agencies, publication formats, and topical and chronological coverage. All collections contain one or more of these resources:
 
 - MARC record files
   - MARC UTF-8
@@ -30,6 +30,7 @@ To download the files, use the "Code" button in the right-hand section of this p
 | *Name*       | *No. of Records*       | *Last Update*       | *Record Formats*       | *Cataloging Dates*
 :-----------------|:-----------------|:-----------------|:-----------------|:-----------------
 | [1950 Census](https://github.com/usgpo/cataloging-records/tree/main/1950_Census_Collection) | 22 | 1/24/2023 | Online | All |
+| [Artificial Intelligence Subject-Based Resources](https://github.com/usgpo/cataloging-records/tree/main/Artificial_Intelligence_Subject-Based-Resources) | 161 | 5/23/2023 | Online | All |
 | [American Indian, Alaska Native, and Native Hawaiian (AIANNH) Subject-Based Resources](https://github.com/usgpo/cataloging-records/tree/main/AIANNH_Subject-Based-Resources) | 224 | 1/24/2023 | Online | 10-12/2022 |
 | [CGP MARC Record Sets](https://github.com/usgpo/cataloging-records/tree/main/CGP_MARC_Records) | 22,176 | 1/24/2023 | All | Previous six months |
 | [Congressional Research Service Reports](https://github.com/usgpo/cataloging-records/tree/main/Congressional_Research_Service_Reports) | 8,241 | 1/24/2023 | Online | All |
@@ -85,11 +86,11 @@ GitHub uses a versioning system to provide access to the iterations of a reposit
 
 ## Other LSCM Repositories
 
-LSCM also maintains and develops five other repositories:
+LSCM develops and maintains other repositories:
 
-- [CGP Records Maintenance Files](https://github.com/usgpo/cataloging-records-CGP-maintenance-files)
 - [All CGP Records (MARC UTF-8)](https://github.com/usgpo/cataloging-records-all-cgp-utf8)
 - [All CGP Records (MARC XML)](https://github.com/usgpo/cataloging-records-all-cgp-marcxml)
+- [CGP Records Maintenance Files](https://github.com/usgpo/cataloging-records-CGP-maintenance-files)
 - [U.S. Congressional Serial Set Project (MARC UTF-8)](https://github.com/usgpo/cataloging-records-serial-set-utf8)
 - [U.S. Congressional Serial Set Project (MARC XML)](https://github.com/usgpo/cataloging-records-serial-set-marcxml)
 

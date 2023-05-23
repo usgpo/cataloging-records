@@ -1,4 +1,4 @@
-# Historically Black Colleges and Universities (HBCU) Subject Based Resources
+# Historically Black Colleges and Universities (HBCU) Subject-Based Resources
 
 ------------
 
