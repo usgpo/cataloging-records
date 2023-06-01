@@ -3,9 +3,9 @@
 A collection consisting of online version records containing one or more of the following subject headings:
 
 - Artificial intelligence
+- Intelligent agents (Computer software)
 - Machine learning
 - Natural language processing (Computer Science)
-- Intelligent agents (Computer software)
 
 Please send us your feedback and questions about our repository and records by submitting an inquiry in the Cataloging/Metadata (Policy and Records) category via [askGPO](https://ask.gpo.gov/s/).
 
