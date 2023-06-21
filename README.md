@@ -11,8 +11,6 @@ Library Technical Services (LTS) has moved two collections to the new repository
 - CGP MARC Record Sets, renamed to [CGP Records Monthly Files](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/CGP_Records_Monthly_Files)
 - [Online Version Records without Item Numbers](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/Online_version_records_without_item_numbers)
 
-LTS has retired the [Online Version Records without Item Numbers](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/Online_version_records_without_item_numbers) collection from this repository and will retire the [CGP MARC Record Sets](https://github.com/usgpo/cataloging-records/tree/main/CGP_MARC_Records) from this repository on June 1, 2023. Please see the [Retired Collections](https://github.com/usgpo/cataloging-records#retired-collections) section for more information.
-
 ## Collections List
 
 The twelve collections in the repository have been created based on various criteria, such as issuing agencies, publication formats, and topical and chronological coverage. All collections contain one or more of these resources:
@@ -32,7 +30,6 @@ To download the files, use the "Code" button in the right-hand section of this p
 | [1950 Census](https://github.com/usgpo/cataloging-records/tree/main/1950_Census_Collection) | 22 | 1/24/2023 | Online | All |
 | [Artificial Intelligence Subject-Based Resources](https://github.com/usgpo/cataloging-records/tree/main/Artificial_Intelligence_Subject-Based-Resources) | 161 | 5/23/2023 | Online | All |
 | [American Indian, Alaska Native, and Native Hawaiian (AIANNH) Subject-Based Resources](https://github.com/usgpo/cataloging-records/tree/main/AIANNH_Subject-Based-Resources) | 224 | 1/24/2023 | Online | 10-12/2022 |
-| [CGP MARC Record Sets](https://github.com/usgpo/cataloging-records/tree/main/CGP_MARC_Records) | 22,176 | 1/24/2023 | All | Previous six months |
 | [Congressional Research Service Reports](https://github.com/usgpo/cataloging-records/tree/main/Congressional_Research_Service_Reports) | 8,241 | 1/24/2023 | Online | All |
 | [COVID-19 and Coronavirus Resources](https://github.com/usgpo/cataloging-records/tree/main/COVID-19_Coronavirus) | 937 | 1/24/2023 | Online | All |
 | [Department of Transportation Resources](https://github.com/usgpo/cataloging-records/tree/main/Department_of_Transportation) | 2,083 | 1/24/2023 | Online | All |
