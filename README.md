@@ -28,17 +28,17 @@ To download the files, use the "Code" button in the right-hand section of this p
 | *Name*       | *No. of Records*       | *Last Update*       | *Record Formats*       | *Cataloging Dates*
 :-----------------|:-----------------|:-----------------|:-----------------|:-----------------
 | [1950 Census](https://github.com/usgpo/cataloging-records/tree/main/1950_Census_Collection) | 22 | 1/24/2023 | Online | All |
-| [Artificial Intelligence Subject-Based Resources](https://github.com/usgpo/cataloging-records/tree/main/Artificial_Intelligence_Subject-Based-Resources) | 161 | 5/23/2023 | Online | All |
-| [American Indian, Alaska Native, and Native Hawaiian (AIANNH) Subject-Based Resources](https://github.com/usgpo/cataloging-records/tree/main/AIANNH_Subject-Based-Resources) | 224 | 1/24/2023 | Online | 10-12/2022 |
-| [Congressional Research Service Reports](https://github.com/usgpo/cataloging-records/tree/main/Congressional_Research_Service_Reports) | 8,241 | 1/24/2023 | Online | All |
-| [COVID-19 and Coronavirus Resources](https://github.com/usgpo/cataloging-records/tree/main/COVID-19_Coronavirus) | 937 | 1/24/2023 | Online | All |
+| [Artificial Intelligence Subject-Based Resources](https://github.com/usgpo/cataloging-records/tree/main/Artificial_Intelligence_Subject-Based-Resources) | 171 | 10/31/2023 | Online | All |
+| [American Indian, Alaska Native, and Native Hawaiian (AIANNH) Subject-Based Resources](https://github.com/usgpo/cataloging-records/tree/main/AIANNH_Subject-Based-Resources) | 261 | 10/31/2023 | Online | 6-9/2023 |
+| [Congressional Research Service Reports](https://github.com/usgpo/cataloging-records/tree/main/Congressional_Research_Service_Reports) | 8,795 | 10/31/2023 | Online | All |
+| [COVID-19 and Coronavirus Resources](https://github.com/usgpo/cataloging-records/tree/main/COVID-19_Coronavirus) | 977 | 10/31/2023 | Online | All |
 | [Department of Transportation Resources](https://github.com/usgpo/cataloging-records/tree/main/Department_of_Transportation) | 2,083 | 1/24/2023 | Online | All |
-| [Historically Black Colleges and Universities (HBCU) Subject-Based Resources](https://github.com/usgpo/cataloging-records/tree/main/HBCU_Subject-Based-Resources) | 41 | 10/31/2022 | All | 9-11/2022 |
-| [House Select Committee to Investigate the January 6th Attack on the United States Capitol Collection](https://github.com/usgpo/cataloging-records/tree/main/jan6_committee) | 42 | 01/12/2023 | Online | All |
+| [Historically Black Colleges and Universities (HBCU) Subject-Based Resources](https://github.com/usgpo/cataloging-records/tree/main/HBCU_Subject-Based-Resources) | 26 | 10/31/2022 | All | 6-9/2023 |
+| [House Select Committee to Investigate the January 6th Attack on the United States Capitol Collection](https://github.com/usgpo/cataloging-records/tree/main/jan6_committee) | 42 | 1/12/2023 | Online | All |
 | [Law Library of Congress Reports Collection](https://github.com/usgpo/cataloging-records/tree/main/Law_Library_Congress) | 2,643 | 1/24/2023 | Online | All |
 | [National Institue of Standards and Technology (NIST) Collection](https://github.com/usgpo/cataloging-records/tree/main/NIST_Collection) | 8,897 | 11/2020 | Online | 2016 |
 | [Online FDLP Basic Collection](https://github.com/usgpo/cataloging-records/tree/main/Online_FDLP_Basic_Collection) | 23 | 3/2021 | Online | All |
-| **Total Number of Records** | **45,490**
+| **Total Number of Records** | **23,940**
 ------------
 
 ## Retired Collections
