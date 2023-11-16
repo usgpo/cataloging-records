@@ -34,7 +34,7 @@ To download the files, use the "Code" button in the right-hand section of this p
 | [COVID-19 and Coronavirus Resources](https://github.com/usgpo/cataloging-records/tree/main/COVID-19_Coronavirus) | 977 | 10/31/2023 | Online | All |
 | [Department of Transportation Resources](https://github.com/usgpo/cataloging-records/tree/main/Department_of_Transportation) | 2,092 | 10/31/2023 | Online | All |
 | [Historically Black Colleges and Universities (HBCU) Subject-Based Resources](https://github.com/usgpo/cataloging-records/tree/main/HBCU_Subject-Based-Resources) | 26 | 10/31/2023 | All | 6-9/2023 |
-| [House Select Committee to Investigate the January 6th Attack on the United States Capitol Collection](https://github.com/usgpo/cataloging-records/tree/main/jan6_committee) | 42 | 1/12/2023 | Online | All |
+| [House Select Committee to Investigate the January 6th Attack on the United States Capitol Collection](https://github.com/usgpo/cataloging-records/tree/main/Jan6_Committee) | 42 | 1/12/2023 | Online | All |
 | [Law Library of Congress Reports Collection](https://github.com/usgpo/cataloging-records/tree/main/Law_Library_Congress) | 3,278 | 10/31/2023 | Online | All |
 | [National Institue of Standards and Technology (NIST) Collection](https://github.com/usgpo/cataloging-records/tree/main/NIST_Collection) | 8,897 | 11/2020 | Online | 2016 |
 | [Online FDLP Basic Collection](https://github.com/usgpo/cataloging-records/tree/main/Online_FDLP_Basic_Collection) | 23 | 3/2021 | Online | All |
