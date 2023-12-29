@@ -6,9 +6,9 @@ Library Technical Services' Customized Record Sets working group collaborated wi
 
 Please send us your feedback and questions about our repository and records by submitting an inquiry in the `Cataloging/Metadata (Policy and Records)` category via [askGPO](https://ask.gpo.gov/s/).
 
-[Historically Black Colleges and Universitites Resources Subject-Based Resources for Online items](/HBCU_Subject-Based-Resources/Terms_Lists_Records_Displays/HBCU_Subject-Based_Online_Resources.md)
+[Historically Black Colleges and Universities Resources Subject-Based Resources for Online items](/HBCU_Subject-Based-Resources/Terms_Lists_Records_Displays/HBCU_Subject-Based_Online_Resources.md)
 
-[Historically Black Colleges and Universitites Resources Subject-Based Resources for Tangible items](/HBCU_Subject-Based-Resources/Terms_Lists_Records_Displays/HBCU_Subject-Based_Tangible_Resources.md)
+[Historically Black Colleges and Universities Resources Subject-Based Resources for Tangible items](/HBCU_Subject-Based-Resources/Terms_Lists_Records_Displays/HBCU_Subject-Based_Tangible_Resources.md)
 
 There are 310 subject terms listed.
 
