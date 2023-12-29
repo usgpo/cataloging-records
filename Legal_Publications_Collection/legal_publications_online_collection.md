@@ -1,6 +1,4 @@
-# Legal Publications Online Collection
-
-The Legal Publications Collection is divided into two files, one for titles available in tangible format and another for titles available in electronic format. The tangible record set was created from the Print Distribution Titles (PDT) list that circulated during the shift to a digital FDLP. This set includes nine titles: all seven of the unlimited titles and two titles set for distribution of fifty copies. These titles, along with the eighty-three titles that comprise the electronic record set, were chosen because they are selected for by at least half of all law libraries in the FDLP as of 2023.
+# Legal Publications Collection Online Records
 
 Please send us your feedback and questions about our repository and records by submitting an inquiry in the Cataloging/Metadata (Policy and Records) category via [askGPO](https://ask.gpo.gov/s/).
 
@@ -10,7 +8,7 @@ This list contains 84 records, and is current as of December 27, 2023.
 | *Title* | *CGP* | *Author* | *Date* | *SuDoc*
 :-----------------|:-----------------|:-----------------|:-----------------|:-----------------
 | [Activities of the Administrative Office of the U.S. Courts.](https://purl.fdlp.gov/GPO/LPS29495) | [552027](https://catalog.gpo.gov/F/?func=direct&doc_number=552027&local_base=GPO01PUB) | United States. Administrative Office of the United States Co... | No data | JU 10.1/3: |
-| Administrative decisions under immigration & nationality laws / | [18328](https://catalog.gpo.gov/F/?func=direct&doc_number=18328&local_base=GPO01PUB) | United States. Department of Justice. | 1947 | J 21.11: |
+| [Administrative decisions under immigration & nationality laws](https://purl.fdlp.gov/GPO/LPS78393 ) | [18328](https://catalog.gpo.gov/F/?func=direct&doc_number=18328&local_base=GPO01PUB) | United States. Department of Justice. | 1947 | J 21.11: |
 | [The Air Force law review](https://purl.fdlp.gov/GPO/LPS28111) | [481239](https://catalog.gpo.gov/F/?func=direct&doc_number=481239&local_base=GPO01PUB) | No data | No data | D 302.9: |
 | [Annual report](https://purl.fdlp.gov/GPO/LPS5274) | [550621](https://catalog.gpo.gov/F/?func=direct&doc_number=550621&local_base=GPO01PUB) | United States Sentencing Commission. | No data | Y 3.SE 5:1/ |
 | [Annual report of the Director of the Administrative Office of the United States Courts.](https://purl.fdlp.gov/GPO/gpo8539) | [823411](https://catalog.gpo.gov/F/?func=direct&doc_number=823411&local_base=GPO01PUB) | United States. Administrative Office of the United States Co... | No data | JU 10.1: |
@@ -33,11 +31,11 @@ This list contains 84 records, and is current as of December 27, 2023.
 | [DAWSON.](https://purl.fdlp.gov/GPO/gpo52682) | [936808](https://catalog.gpo.gov/F/?func=direct&doc_number=936808&local_base=GPO01PUB) | United States. Tax Court | No data | JU 11.7/3: |
 | [Daily compilation of Presidential documents.](https://purl.fdlp.gov/GPO/LPS107897) | [631527](https://catalog.gpo.gov/F/?func=direct&doc_number=631527&local_base=GPO01PUB) | No data | No data | AE 2.109: |
 | [Decisions of the Federal Labor Relations Authority](https://purl.fdlp.gov/GPO/LPS52836) | [627878](https://catalog.gpo.gov/F/?func=direct&doc_number=627878&local_base=GPO01PUB) | United States. Federal Labor Relations Authority. | No data | Y 3.F 31/21-3:10-4/ |
-| Digest and decisions of the Employees' Compensation Appeals Board. | [330998](https://catalog.gpo.gov/F/?func=direct&doc_number=330998&local_base=GPO01PUB) | United States. Employees' Compensation Appeals Board. | 1987 | L 28.9: |
+| [Digest and decisions of the Employees' Compensation Appeals Board.](https://purl.fdlp.gov/GPO/LPS78047) | [330998](https://catalog.gpo.gov/F/?func=direct&doc_number=330998&local_base=GPO01PUB) | United States. Employees' Compensation Appeals Board. | 1987 | L 28.9: |
 | [Economic report of the President transmitted to the Congress.](https://purl.fdlp.gov/GPO/gpo130886) | [1113246](https://catalog.gpo.gov/F/?func=direct&doc_number=1113246&local_base=GPO01PUB) | United States. President | 1950 | PR 33.10: |
 | [Electronic code of federal regulations e-CFR.](https://purl.fdlp.gov/GPO/gpo21337) | [869177](https://catalog.gpo.gov/F/?func=direct&doc_number=869177&local_base=GPO01PUB) | No data | No data | AE 2.106/3-3: |
 | [FY ... performance & accountability report](https://purl.fdlp.gov/GPO/gpo61383) | [553426](https://catalog.gpo.gov/F/?func=direct&doc_number=553426&local_base=GPO01PUB) | United States. Department of Justice. | 2004 | J 1.1: |
-| Federal Trade Commission decisions. | [323984](https://catalog.gpo.gov/F/?func=direct&doc_number=323984&local_base=GPO01PUB) | United States. Federal Trade Commission. | 1920 | FT 1.11: |
+| [Federal Trade Commission decisions.](https://purl.fdlp.gov/GPO/LPS81899)| [600942](https://catalog.gpo.gov/F/?func=direct&doc_number=600942&local_base=GPO01PUB) | United States. Federal Trade Commission. | 1920 | FT 1.11: |
 | [Federal court management statistics](https://purl.fdlp.gov/GPO/LPS37887) | [595327](https://catalog.gpo.gov/F/?func=direct&doc_number=595327&local_base=GPO01PUB) | No data | No data | JU 10.14: |
 | [Federal judicial caseload statistics](https://purl.fdlp.gov/GPO/LPS29106) | [552978](https://catalog.gpo.gov/F/?func=direct&doc_number=552978&local_base=GPO01PUB) | No data | No data | JU 10.21: |
 | [Federal justice statistics.](https://purl.fdlp.gov/GPO/LPS113898) | [643608](https://catalog.gpo.gov/F/?func=direct&doc_number=643608&local_base=GPO01PUB) | No data | No data | J 29.11/18: |
