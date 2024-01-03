@@ -51,6 +51,7 @@ This list contains 56 records, and is current as of December 27, 2023.
 | Code of federal regulations. 43, Public lands, interior. | [326110](https://catalog.gpo.gov/F/?func=direct&doc_number=326110&local_base=GPO01PUB) | United States. Department of the Interior. | No data | GS 4.108:43/ |
 | Code of federal regulations. 44, Emergency management and assistance. | [326134](https://catalog.gpo.gov/F/?func=direct&doc_number=326134&local_base=GPO01PUB) | No data | No data | GS 4.108:44/ |
 | Code of federal regulations. 45, Public welfare. | [325454](https://catalog.gpo.gov/F/?func=direct&doc_number=325454&local_base=GPO01PUB) | No data | No data | GS 4.108:45/ |
+| Code of federal regulations. 46, Shipping. | [312622](https://catalog.gpo.gov/F/?func=direct&doc_number=312622&local_base=GPO01PUB) | No data | No data | GS 4.108:46/ |
 | Code of federal regulations. 47, Telecommunications. | [326131](https://catalog.gpo.gov/F/?func=direct&doc_number=326131&local_base=GPO01PUB) | No data | No data | GS 4.108:47/ |
 | Code of federal regulations. 48, Federal acquisition regulations system. | [328630](https://catalog.gpo.gov/F/?func=direct&doc_number=328630&local_base=GPO01PUB) | No data | No data | GS 4.108:48/ |
 | Code of federal regulations. 49, Transportation. | [326035](https://catalog.gpo.gov/F/?func=direct&doc_number=326035&local_base=GPO01PUB) | No data | No data | GS 4.108:49/ |

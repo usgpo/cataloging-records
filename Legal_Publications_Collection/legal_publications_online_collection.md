@@ -8,7 +8,7 @@ This list contains 84 records, and is current as of December 27, 2023.
 | *Title* | *CGP* | *Author* | *Date* | *SuDoc*
 :-----------------|:-----------------|:-----------------|:-----------------|:-----------------
 | [Activities of the Administrative Office of the U.S. Courts.](https://purl.fdlp.gov/GPO/LPS29495) | [552027](https://catalog.gpo.gov/F/?func=direct&doc_number=552027&local_base=GPO01PUB) | United States. Administrative Office of the United States Co... | No data | JU 10.1/3: |
-| [Administrative decisions under immigration & nationality laws](https://purl.fdlp.gov/GPO/LPS78393 ) | [18328](https://catalog.gpo.gov/F/?func=direct&doc_number=18328&local_base=GPO01PUB) | United States. Department of Justice. | 1947 | J 21.11: |
+| [AG/BIA decisions listing ](https://purl.fdlp.gov/GPO/LPS78395) | [597538](https://catalog.gpo.gov/F/?func=direct&doc_number=597538&local_base=GPO01PUB) | United States. Department of Justice. | 1947 | J 21.11: |
 | [The Air Force law review](https://purl.fdlp.gov/GPO/LPS28111) | [481239](https://catalog.gpo.gov/F/?func=direct&doc_number=481239&local_base=GPO01PUB) | No data | No data | D 302.9: |
 | [Annual report](https://purl.fdlp.gov/GPO/LPS5274) | [550621](https://catalog.gpo.gov/F/?func=direct&doc_number=550621&local_base=GPO01PUB) | United States Sentencing Commission. | No data | Y 3.SE 5:1/ |
 | [Annual report of the Director of the Administrative Office of the United States Courts.](https://purl.fdlp.gov/GPO/gpo8539) | [823411](https://catalog.gpo.gov/F/?func=direct&doc_number=823411&local_base=GPO01PUB) | United States. Administrative Office of the United States Co... | No data | JU 10.1: |
