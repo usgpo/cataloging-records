@@ -1,4 +1,4 @@
-# Database Records
+# SPOT Records
 
 Library Services and Content Management staff members regularly identify online Federal Fovernment documents related to topics in the news, or otherwise of general public interest. These publications are highlighted on FDLP.gov as “[Featured Titles](https://fdlp.gov/historic-publications)”. Bibliographic records for featured publications are marked with a local MARC 922 field value of SPOT, so they can be retrieved in the Catalog of U.S. Government Publications (CGP) by an expert search for [wlts=SPOT](https://catalog.gpo.gov/F/?func=find-c&ccl_term=wlts%3Dspot&x=0&y=0).
 
