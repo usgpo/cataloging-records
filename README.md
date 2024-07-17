@@ -39,7 +39,7 @@ To download the files, use the "Code" button in the right-hand section of this p
 | [Legal Publications Collection](https://github.com/usgpo/cataloging-records/tree/main/Legal_Publications_Collection) | 140 | 12/29/2023 | Online and Tangible | All
 | [National Institue of Standards and Technology (NIST) Collection](https://github.com/usgpo/cataloging-records/tree/main/NIST_Collection) | 8,897 | 11/2020 | Online | 2016
 | [Online FDLP Basic Collection](https://github.com/usgpo/cataloging-records/tree/main/Online_FDLP_Basic_Collection) | 23 | 3/2021 | Online | All
-| [SPOT records](https://github.com/usgpo/cataloging-records/tree/main/SPOT_Records) | 43 | 6/2024 | Online | All
+| [Featured Publications Collection](https://github.com/usgpo/cataloging-records/tree/main/SPOT_Records) | 43 | 6/2024 | Online | All
 | [Updating Databases](https://github.com/usgpo/cataloging-records/tree/main/Updating_Databases) | 226 | 6/2024 | Online | All
 | **Total Number of Records** | **24,853**
 ------------
