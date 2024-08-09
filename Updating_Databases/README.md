@@ -1,6 +1,6 @@
 # Updating Database Records
 
-This collection contains records for 226 updating databases in the Catalog of U.S. Government Publications (CGP). The databases provide access to publications, statistics, journal articles, and other types of information. Due to the different cataloging/metadata policies, procedures, and practices that LTS has followed in the past, the collection does not include all records for updating databases. The collection offers a file of the MARC records and a comma-separated values (CSV) file of the major metadata elements in the records.
+This collection contains records for 226 updating databases in the Catalog of U.S. Government Publications (CGP). The databases provide access to publications, statistics, journal articles, and other types of information. Due to the different cataloging/metadata policies, procedures, and practices that MCS has followed in the past, the collection does not include all records for updating databases. The collection offers a file of the MARC records and a comma-separated values (CSV) file of the major metadata elements in the records.
 
 Please send us your feedback and questions about our repository and records by submitting an inquiry in the Cataloging/Metadata (Policy and Records) category via [askGPO](https://ask.gpo.gov/s/).
 

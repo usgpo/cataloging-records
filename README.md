@@ -6,7 +6,7 @@ The **CGP on GitHub** is a repository of cataloging/metadata resources extracted
 
 ## Repository Updates
 
-Library Technical Services (LTS) has moved two collections to the new repository, [Catalog of U.S. Government Publications (CGP) Records Maintenance Files](https://github.com/usgpo/cataloging-records-CGP-maintenance-files):
+Metadata and Collection Services (MCS), formerly Library Technical Services (LTS), has moved two collections to the new repository, [Catalog of U.S. Government Publications (CGP) Records Maintenance Files](https://github.com/usgpo/cataloging-records-CGP-maintenance-files):
 
 - CGP MARC Record Sets, renamed to [CGP Records Monthly Files](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/CGP_Records_Monthly_Files)
 - [Online Version Records without Item Numbers](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/Online_version_records_without_item_numbers)
@@ -46,7 +46,7 @@ To download the files, use the "Code" button in the right-hand section of this p
 
 ## Retired Collections
 
-LTS has retired these collections:
+MCS has retired these collections:
 
 - CGP MARC Record Sets
 - CGP Records with Updated PURLs
@@ -96,6 +96,6 @@ LSCM develops and maintains other repositories:
 
 ## Contact Information
 
-Library Services & Content Management (LSCM) of the U.S. Government Publishing Office created this repository. Library Technical Services (LTS), a department of LSCM, creates and maintains the collections in the repository.
+Library Services & Content Management (LSCM) of the U.S. Government Publishing Office created this repository. Metadata and Collection Services (MCS), formerly Library Technical Services (LTS), a department of LSCM, creates and maintains the collections in the repository.
 
-Please send your feedback and questions about our repository and records to LTS by submitting an inquiry in the Cataloging/Metadata (Policy and Records) category via [askGPO](https://ask.gpo.gov/s/).
+Please send your feedback and questions about our repository and records to MCS by submitting an inquiry in the Cataloging/Metadata (Policy and Records) category via [askGPO](https://ask.gpo.gov/s/).

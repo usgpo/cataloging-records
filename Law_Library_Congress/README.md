@@ -1,7 +1,7 @@
 
 # Law Library of Congress Reports
 
-In April 2020, the Law Library of Congress and the U.S. Government Publishing Office (GPO) began a collaboration on a multi-year project to catalog thousands of digitized and born-digital historical legal reports. The Law Library of Congress is digitizing the reports, and GPO's Library Technical Services (LTS) is cataloging the reports. There are approximately 4,000 reports to be included in the partnership.
+In April 2020, the Law Library of Congress and the U.S. Government Publishing Office (GPO) began a collaboration on a multi-year project to catalog thousands of digitized and born-digital historical legal reports. The Law Library of Congress is digitizing the reports, and GPO's Metadata and Collection Services (MCS), formerly Library Technical Services (LTS), is cataloging the reports. There are approximately 4,000 reports to be included in the partnership.
 
 In July 2022, the Law Library of Congress celebrated the milestone of releasing over [3,000 digitized and born-digital reports](https://blogs.loc.gov/law/2022/08/celebrating-over-3000-historical-and-contemporary-legal-reports-now-online/) in the Legal Reports (Publications of the Law Library of Congress) collection. To explore these reports, please [visit the collection](https://www.loc.gov/collections/publications-of-the-law-library-of-congress/about-this-collection/?locr=bloglaw).
 
@@ -21,8 +21,8 @@ This list contains 3,930 records, and is current as of March 15, 2024.
 
 ----
 | *Title* | *CGP* | *Author* | *Date* | *SuDoc*
-:-----------------|:-----------------|:-----------------|:-----------------|:-----------------
-| [The "English rule" on payment of costs of civil litigation.](https://purl.fdlp.gov/GPO/gpo184081) | [1193515](https://catalog.gpo.gov/F/?func=direct&doc_number=1193515&local_base=GPO01PUB) | Shroff, Kersi B. | 1996 | LC 42.20:EN 3/10 |
+|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------
+| [The "English rule" on payment of costs of civil litigation.](https://purl.fdlp.gov/GPO/gpo184081) | [1193515](https://catalog.gpo.gov/F/?func=direct&doc_number=1193515&local_base=GPO01PUB) | Shroff, Kersi B. | 1996 | LC 42.20:EN 3/10
 | ["Identity cards" and "reference books" in the Republic of South Africa.](https://purl.fdlp.gov/GPO/gpo139933) | [1126751](https://catalog.gpo.gov/F/?func=direct&doc_number=1126751&local_base=GPO01PUB) | No data | 1971 | LC 42.20:ID 2 |
 | [A "fast-track" authority for negotiating trade agreements? : Australia, Brazil, Canada, European Union, Switzerland, Uni...](https://purl.fdlp.gov/GPO/gpo195715) | [1232156](https://catalog.gpo.gov/F/?func=direct&doc_number=1232156&local_base=GPO01PUB) | No data | 2001 | LC 42.20:N 31/3 |
 | [The "right to roam" English law on public rights-of-way and access to the countryside / Kersi B. Shroff.](https://purl.fdlp.gov/GPO/gpo139904) | [1126073](https://catalog.gpo.gov/F/?func=direct&doc_number=1126073&local_base=GPO01PUB) | Shroff, Kersi B. | 1990 | LC 42.20:R 44/2 |
