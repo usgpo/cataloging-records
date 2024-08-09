@@ -2,7 +2,7 @@
 
 -----------
 
-Tribal College Federal depository libraries (FDLs) requested that GPO provide notifications of newly cataloged online resources based on specific subject areas. The FDLs worked with Library Technical Services staff to compile lists of LCSH terms. The comma-separated values (CSV) and portable document format (PDF) files include major metadata fields and PURLs for each publication. We also offer MARC and MARC XML files.  As our service expands, additional topics will be added to the ones below.
+Tribal College Federal depository libraries (FDLs) requested that GPO provide notifications of newly cataloged online resources based on specific subject areas. The FDLs worked with Metadata and Collection Services (MCS) staff, formerly Library Technical Services (LTS), to compile lists of LCSH terms. The comma-separated values (CSV) and portable document format (PDF) files include major metadata fields and PURLs for each publication. We also offer MARC and MARC XML files.  As our service expands, additional topics will be added to the ones below.
 
 Please send us your feedback and questions about our repository and records by submitting an inquiry in the `Cataloging/Metadata (Policy and Records)` category via [askGPO](https://ask.gpo.gov/s/).
 
