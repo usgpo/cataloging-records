@@ -96,4 +96,4 @@ LSCM develops and maintains other repositories:
 
 ## Contact Information
 
-Please send your feedback and questions about our repository and records to LTS by submitting an inquiry in the Cataloging/Metadata (Policy and Records) category via [askGPO](https://ask.gpo.gov/s/).
+Please send your feedback and questions about our repository and records to MCS by submitting an inquiry in the Cataloging/Metadata (Policy and Records) category via [askGPO](https://ask.gpo.gov/s/).
