@@ -2,14 +2,7 @@
 
 ## General Information
 
-The **CGP on GitHub** is a repository of cataloging/metadata resources extracted from the bibliographic records of the  [Catalog of U.S. Government Publications (CGP)](https://catalog.gpo.gov). The CGP is the U.S. Government Publishing Office's (GPO) finding tool for publications of the executive, judicial, and legislative branches, and other entities of the U.S. Federal Government. The CGP records comprise the [National Collection of U.S. Government Public Information](https://www.fdlp.gov/about-the-fdlp/the-national-collection) and contain descriptive and subject information to enable the discovery of these resources. Many CGP records provide PURL (persistent uniform resource locator) links to the online versions of publications. For more information, please visit the CGP [help pages](https://catalog.gpo.gov/cgphelp/en/help.html).
-
-## Repository Updates
-
-Metadata and Collection Services (MCS), formerly Library Technical Services (LTS), has moved two collections to the new repository, [Catalog of U.S. Government Publications (CGP) Records Maintenance Files](https://github.com/usgpo/cataloging-records-CGP-maintenance-files):
-
-- CGP MARC Record Sets, renamed to [CGP Records Monthly Files](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/CGP_Records_Monthly_Files)
-- [Online Version Records without Item Numbers](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/Online_version_records_without_item_numbers)
+Metadata and Collection Services (MCS), formerly Library Technical Services (LTS), of Library Services & Content Management (LSCM), United States Government Publishing Office (GPO), develops and maintains this repository. The **CGP on GitHub** is a repository of cataloging/metadata resources extracted from the bibliographic records of the  [Catalog of U.S. Government Publications (CGP)](https://catalog.gpo.gov). The CGP is the U.S. Government Publishing Office's (GPO) finding tool for publications of the executive, judicial, and legislative branches, and other entities of the U.S. Federal Government. The CGP records comprise the [National Collection of U.S. Government Public Information](https://www.fdlp.gov/about-the-fdlp/the-national-collection) and contain descriptive and subject information to enable the discovery of these resources. Many CGP records provide PURL (persistent uniform resource locator) links to the online versions of publications. For more information, please visit the CGP [help pages](https://catalog.gpo.gov/cgphelp/en/help.html).
 
 ## Collections List
 
@@ -90,12 +83,11 @@ LSCM develops and maintains other repositories:
 
 - [All CGP Records (MARC UTF-8)](https://github.com/usgpo/cataloging-records-all-cgp-utf8)
 - [All CGP Records (MARC XML)](https://github.com/usgpo/cataloging-records-all-cgp-marcxml)
-- [Catalog of U.S. Government Publications (CGP) Records Maintenance Files](https://github.com/usgpo/cataloging-records-CGP-maintenance-files)
+- [CGP Geographic-Based Record Set](https://github.com/usgpo/cataloging-records-geographic-based)
+- [CGP Records Maintenance Files](https://github.com/usgpo/cataloging-records-CGP-maintenance-files)
 - [U.S. Congressional Serial Set Project (MARC UTF-8)](https://github.com/usgpo/cataloging-records-serial-set-utf8)
 - [U.S. Congressional Serial Set Project (MARC XML)](https://github.com/usgpo/cataloging-records-serial-set-marcxml)
 
 ## Contact Information
-
-Library Services & Content Management (LSCM) of the U.S. Government Publishing Office created this repository. Metadata and Collection Services (MCS), formerly Library Technical Services (LTS), a department of LSCM, creates and maintains the collections in the repository.
 
 Please send your feedback and questions about our repository and records to MCS by submitting an inquiry in the Cataloging/Metadata (Policy and Records) category via [askGPO](https://ask.gpo.gov/s/).
