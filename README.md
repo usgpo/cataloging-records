@@ -96,6 +96,4 @@ LSCM develops and maintains other repositories:
 
 ## Contact Information
 
-Library Services & Content Management (LSCM) of the U.S. Government Publishing Office created this repository. Library Technical Services (LTS), a department of LSCM, creates and maintains the collections in the repository.
-
 Please send your feedback and questions about our repository and records to LTS by submitting an inquiry in the Cataloging/Metadata (Policy and Records) category via [askGPO](https://ask.gpo.gov/s/).
