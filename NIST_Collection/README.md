@@ -2,7 +2,7 @@
 
 The National Institute of Standards and Technology (NIST) Collection consists of 8,767 records in 23 monographic series. The records were ingested into FDsys, now govinfo, in 2016. The publications range in date from 1903 to 2016 and cover a wide range of technical and scientific topics. In many of the records, the subject content is described by NIST index terms in MARC 653 fields at a very granular level.
 
-Library Technical Services staff reviewed and analyzed the records and enhanced the metadata through batch processing and edits to individual records. A note to this effect has been added in every record.
+Metadata and Collection Services, formerly Library Technical Services, staff reviewed and analyzed the records and enhanced the metadata through batch processing and edits to individual records. A note to this effect has been added in every record.
 
 The records can be retrieved in the Catalog of U.S. Government Publications by this search in the expert mode: [wlts=Nist-1](https://catalog.gpo.gov/F/?func=find-c&ccl_term=wlts%3Dnist-1&x=0&y=0)
 
