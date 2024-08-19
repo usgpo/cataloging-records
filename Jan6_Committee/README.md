@@ -6,7 +6,7 @@ The records may be retrieved by the CGP expert mode search:
 
 [wrd = "Select Committee to Investigate the January 6th Attack"](https://catalog.gpo.gov/F/?func=find-c&ccl_term=wrd+%3D+%28+%22Select+Committee+to+Investigate+the+January+6th+Attack%22+%29&local_base=GPO01PUB&x=19&y=11)
 
-Library Technical Services staff members will catalog other publications as they become available.
+Metadata and Collection Services, formerly Library Technical Services, staff members will catalog other publications as they become available.
 
 Please send us your feedback and questions about our repository and records by submitting an inquiry in the “Cataloging/Metadata (Policy and Records)” category via [askGPO](https://ask.gpo.gov/s/).
 
