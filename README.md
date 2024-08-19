@@ -6,7 +6,7 @@ The **CGP on GitHub** is a repository of cataloging/metadata resources extracted
 
 ## Repository Updates
 
-Library Technical Services (LTS) has moved two collections to the new repository, [Catalog of U.S. Government Publications (CGP) Records Maintenance Files](https://github.com/usgpo/cataloging-records-CGP-maintenance-files):
+Metadata and Collection Services (MCS), formerly Library Technical Services (LTS), has moved two collections to the new repository, [Catalog of U.S. Government Publications (CGP) Records Maintenance Files](https://github.com/usgpo/cataloging-records-CGP-maintenance-files):
 
 - CGP MARC Record Sets, renamed to [CGP Records Monthly Files](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/CGP_Records_Monthly_Files)
 - [Online Version Records without Item Numbers](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/Online_version_records_without_item_numbers)
@@ -88,12 +88,13 @@ LSCM develops and maintains other repositories:
 
 - [All CGP Records (MARC UTF-8)](https://github.com/usgpo/cataloging-records-all-cgp-utf8)
 - [All CGP Records (MARC XML)](https://github.com/usgpo/cataloging-records-all-cgp-marcxml)
-- [Catalog of U.S. Government Publications (CGP) Records Maintenance Files](https://github.com/usgpo/cataloging-records-CGP-maintenance-files)
+- [CGP Geographic-Based Record Sets)](https://github.com/usgpo/cataloging-records-geographic-based)
+- [CGP Records Maintenance Files](https://github.com/usgpo/cataloging-records-CGP-maintenance-files)
 - [U.S. Congressional Serial Set Project (MARC UTF-8)](https://github.com/usgpo/cataloging-records-serial-set-utf8)
 - [U.S. Congressional Serial Set Project (MARC XML)](https://github.com/usgpo/cataloging-records-serial-set-marcxml)
 
 ## Contact Information
 
-Library Services & Content Management (LSCM) of the U.S. Government Publishing Office created this repository. Library Technical Services (LTS), a department of LSCM, creates and maintains the collections in the repository.
+Library Services & Content Management (LSCM) of the U.S. Government Publishing Office created this repository. Metadata and Collection Services (MCS), formerly Library Technical Services (LTS), , a department of LSCM, creates and maintains the collections in the repository.
 
-Please send your feedback and questions about our repository and records to LTS by submitting an inquiry in the Cataloging/Metadata (Policy and Records) category via [askGPO](https://ask.gpo.gov/s/).
+Please send your feedback and questions about our repository and records to MCS by submitting an inquiry in the Cataloging/Metadata (Policy and Records) category via [askGPO](https://ask.gpo.gov/s/).
