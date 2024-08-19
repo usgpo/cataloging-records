@@ -2,7 +2,7 @@
 
 ------------
 
-Library Technical Services' Customized Record Sets working group collaborated with the [Tuskegee University Main Library & Archives](https://tusk.ent.sirsi.net/client/en_US/home) and the [University of Kansas Project on the History of Black Writing](https://hbw.ku.edu/) to compile a list of LCSH terms, genre forms, and recommended subject headings to test methods of providing notification of newly cataloged online and tangible publications added to the [Catalog of U.S. Government Publications (CGP)](https://catalog.gpo.gov). The Historically Black Colleges and Universities (HBCU) - Subject-Based Resources feature metadata and PURLs for publications and will include a listing of key topics and resources held in HBCU collections.
+Metadata and Collection Services', formerly Library Technical Services, Customized Record Sets working group collaborated with the [Tuskegee University Main Library & Archives](https://tusk.ent.sirsi.net/client/en_US/home) and the [University of Kansas Project on the History of Black Writing](https://hbw.ku.edu/) to compile a list of LCSH terms, genre forms, and recommended subject headings to test methods of providing notification of newly cataloged online and tangible publications added to the [Catalog of U.S. Government Publications (CGP)](https://catalog.gpo.gov). The Historically Black Colleges and Universities (HBCU) - Subject-Based Resources feature metadata and PURLs for publications and will include a listing of key topics and resources held in HBCU collections.
 
 Please send us your feedback and questions about our repository and records by submitting an inquiry in the `Cataloging/Metadata (Policy and Records)` category via [askGPO](https://ask.gpo.gov/s/).
 
