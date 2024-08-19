@@ -78,19 +78,19 @@ GitHub uses a versioning system to provide access to the iterations of a reposit
 **To see a list of versions of the repository as a whole, follow these steps:**
 
 - Click or tap on "commits" in the top right-hand section of the page
-  - ![Image shows pointer to 'commits' link in upper right-hand of main file list](/images/commit_history_link.png)
+  - ![Image shows pointer to 'commits' link in upper right-hand of main file list](images/commit_history_link.png)
 - On the "Commits" page, choose the date of the version to be retrieved and then click or tap the "Browse the repository at this point in the history" link.
-  - ![Image shows pointer to "Browse the repository at this point in the history" link](/images/browse_history_link.png)
+  - ![Image shows pointer to "Browse the repository at this point in the history" link](images/browse_history_link.png)
 - The resources in the repository on that date will be available for viewing  and downloading.
 
 **To see a list of versions of a particular collection, follow these steps:**
 
 - Click or tap on the name of a collection in the Collections List.
 - Click or tap on "History" in the top right-hand corner of the collection page.
-  - ![Image shows the "History" link on ](/images/collections_history_link.png)
+  - ![Image shows the "History" link on ](images/collections_history_link.png)
 - On the "History" page, choose the date of the version to be retrieved.
 - Click or tap on the "Browse the repository at this point in the history" icon.
-  - ![Image shows pointer to "Browse the repository at this point in the history" link](/images/browse_historical_collections.png)
+  - ![Image shows pointer to "Browse the repository at this point in the history" link](images/browse_historical_collections.png)
 - The main page of the repository on that date will be displayed.
 - The resources in the repository on that date will be available for viewing and downloading.
 
