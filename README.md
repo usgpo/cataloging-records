@@ -41,7 +41,7 @@ To download the files, use the "Code" button in the right-hand section of this p
 | [Online FDLP Basic Collection](https://github.com/usgpo/cataloging-records/tree/main/Online_FDLP_Basic_Collection) | 23 | 3/2021 | Online | All
 | [Featured Publications Collection](https://github.com/usgpo/cataloging-records/tree/main/SPOT_Records) | 43 | 6/2024 | Online | All
 | [Updating Databases](https://github.com/usgpo/cataloging-records/tree/main/Updating_Databases) | 226 | 6/2024 | Online | All
-| **Total Number of Records** | **24,853**
+| **Total Number of Records** | **27,664**
 ------------
 
 ## Retired Collections
