@@ -60,13 +60,6 @@ Please check the list to see if the collections are available in another reposit
 | CGP Records with Updated PURLs | 170,501 | None | Online | Up to 10/31/2020
 | Online Version Records without Item Numbers | 4,959 | [Catalog of U.S. Government Publications (CGP) Records Maintenance Files](https://github.com/usgpo/cataloging-records-CGP-maintenance-files) | Online | All
 ------------
-
-## How to Use the Repository
-
-
-
-
-------------
 ## Other LSCM Repositories
 
 LSCM develops and maintains other repositories:
