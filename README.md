@@ -60,6 +60,13 @@ Please check the list to see if the collections are available in another reposit
 | CGP Records with Updated PURLs | 170,501 | None | Online | Up to 10/31/2020
 | Online Version Records without Item Numbers | 4,959 | [Catalog of U.S. Government Publications (CGP) Records Maintenance Files](https://github.com/usgpo/cataloging-records-CGP-maintenance-files) | Online | All
 ------------
+
+## How to Use the Repository
+
+
+
+
+------------
 ## Other LSCM Repositories
 
 LSCM develops and maintains other repositories:
@@ -70,7 +77,8 @@ LSCM develops and maintains other repositories:
 - [CGP Records Maintenance Files](https://github.com/usgpo/cataloging-records-CGP-maintenance-files)
 - [U.S. Congressional Serial Set Project (MARC UTF-8)](https://github.com/usgpo/cataloging-records-serial-set-utf8)
 - [U.S. Congressional Serial Set Project (MARC XML)](https://github.com/usgpo/cataloging-records-serial-set-marcxml)
-  
+------------
+
 ## Repository History and Versions
 
 GitHub uses a versioning system to provide access to the iterations of a repository. This enables a user to return to the state of a repository before the various changes ("commits" in GitHub terminology) that were made to it.
@@ -94,6 +102,6 @@ GitHub uses a versioning system to provide access to the iterations of a reposit
 - The main page of the repository on that date will be displayed.
 - The resources in the repository on that date will be available for viewing and downloading.
 
-## Contact Information
+## Feedback and Questions
 
-Please send your feedback and questions about our repository and records to MCS by submitting an inquiry in the Cataloging/Metadata (Policy and Records) category via [askGPO](https://ask.gpo.gov/s/).
+For questions and feedback about the repositories, collections, and resources, please submit inquiries via [askGPO](https://ask.gpo.gov/s/). Select the Federal Depository Library tile and then the Cataloging/Metadata (Policy and Records) category.
