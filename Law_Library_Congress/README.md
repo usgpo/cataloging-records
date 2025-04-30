@@ -17,7 +17,7 @@ See more publications of the Law Library of Congress in the CGP by [this expert 
 
 Please send us your feedback and questions about our repository and records by submitting an inquiry in the Cataloging/Metadata (Policy and Records) category via [askGPO](https://ask.gpo.gov/s/).
 
-This list contains 3,930 records, and is current as of September 16, 2024.
+This list contains 3,930 records, and is current as of April 30, 2025.
 
 ----
 | *Title* | *CGP* | *Author* | *Date* | *SuDoc*
@@ -731,7 +731,7 @@ This list contains 3,930 records, and is current as of September 16, 2024.
 | [Corporal punishment in schools: Ecuadr, Puerto Rico, Spain, Venezuela.](https://purl.fdlp.gov/GPO/gpo188635) | [1213268](https://catalog.gpo.gov/F/?func=direct&doc_number=1213268&local_base=GPO01PUB) | No data | 1990 | LC 42.20:C 81/9
 | [Corporate Average Fuel Economy (CAFE).](https://purl.fdlp.gov/GPO/gpo160744) | [1169777](https://catalog.gpo.gov/F/?func=direct&doc_number=1169777&local_base=GPO01PUB) | No data | 2006 | LC 42.20:C 81/3
 | [Corporate income tax rates in selected "tax havens" /](https://purl.fdlp.gov/GPO/gpo175752) | [1175423](https://catalog.gpo.gov/F/?func=direct&doc_number=1175423&local_base=GPO01PUB) | No data | 2008 | LC 42.20:T 19/20
-| [Corporate liability for extraterritorial offenses.](https://purl.fdlp.gov/GPO/gpo216540) | [1250030](https://catalog.gpo.gov/F/?func=direct&doc_number=1250030&local_base=GPO01PUB) | No data | 2018 | LC 42.20:L 61
+| [Corporate liability for extraterritorial offenses.](https://purl.fdlp.gov/GPO/gpo216540) | [1250030](https://catalog.gpo.gov/F/?func=direct&doc_number=1250030&local_base=GPO01PUB) | No data | 2018 | LC 42.20:L 61/21
 | [Corporate residency for tax purposes.](https://purl.fdlp.gov/GPO/gpo160743) | [1169776](https://catalog.gpo.gov/F/?func=direct&doc_number=1169776&local_base=GPO01PUB) | No data | 2010 | LC 42.20:C 81/2
 | [Corporate residency for tax purposes.](https://purl.fdlp.gov/GPO/gpo188473) | [1208594](https://catalog.gpo.gov/F/?func=direct&doc_number=1208594&local_base=GPO01PUB) | No data | 2010 | LC 42.20:C 81/6
 | [Corporate residency for tax purposes.](https://purl.fdlp.gov/GPO/gpo195767) | [1248212](https://catalog.gpo.gov/F/?func=direct&doc_number=1248212&local_base=GPO01PUB) | No data | 2002 | LC 42.20:C 81/13
@@ -1194,7 +1194,7 @@ This list contains 3,930 records, and is current as of September 16, 2024.
 | [Foreign law brief : human trafficking -- the need for a comprehensive legislative approach in the Russian Federation.](https://purl.fdlp.gov/GPO/gpo195772) | [1248306](https://catalog.gpo.gov/F/?func=direct&doc_number=1248306&local_base=GPO01PUB) | Roudik, Peter | 2002 | LC 42.20:T 67/21
 | [Foreign law brief : overview of the banking system.](https://purl.fdlp.gov/GPO/gpo195751) | [1247518](https://catalog.gpo.gov/F/?func=direct&doc_number=1247518&local_base=GPO01PUB) | Umeda, Sayuri | 2002 | LC 42.20:B 22/21
 | [Foreign law brief : religious issues in newly adopted legislation.](https://purl.fdlp.gov/GPO/gpo195769) | [1248289](https://catalog.gpo.gov/F/?func=direct&doc_number=1248289&local_base=GPO01PUB) | Roudik, Peter | 2002 | LC 42.20:R 27/18
-| [Foreign law brief. organ and tissue procurement regulation.](https://purl.fdlp.gov/GPO/gpo195786) | [1248458](https://catalog.gpo.gov/F/?func=direct&doc_number=1248458&local_base=GPO01PUB) | Salvo, Giovanni | 2003 | LC 42.20:P 94/22
+| [Foreign law brief. organ and tissue procurement regulation.](https://purl.fdlp.gov/GPO/gpo195786) | [1248458](https://catalog.gpo.gov/F/?func=direct&doc_number=1248458&local_base=GPO01PUB) | Salvo, Giovanni | 2003 | LC 42.20:P 94/36
 | [Foreign law brief: Japan: products liability law - some recent developments.](https://purl.fdlp.gov/GPO/gpo195766) | [1248211](https://catalog.gpo.gov/F/?func=direct&doc_number=1248211&local_base=GPO01PUB) | Umeda, Sayuri | 2002 | LC 42.20:P 88/2
 | [Foreign law issue brief : compensation for victims of terrorist actions : Israel as a case study /](https://purl.fdlp.gov/GPO/gpo144064) | [1135769](https://catalog.gpo.gov/F/?func=direct&doc_number=1135769&local_base=GPO01PUB) | Levush, Ruth | 2003 | LC 42.20:C 73/9
 | [Foreign laws on controlled substance analogues.](https://purl.fdlp.gov/GPO/gpo160805) | [1174622](https://catalog.gpo.gov/F/?func=direct&doc_number=1174622&local_base=GPO01PUB) | Zeldin, Wendy I. | 2012 | LC 42.20:F 76/10
