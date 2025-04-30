@@ -2,10 +2,9 @@
 
 Please send us your feedback and questions about our repository and records by submitting an inquiry in the Cataloging/Metadata (Policy and Records) category via [askGPO](https://ask.gpo.gov/s/).
 
-This list contains 36 records, and is current as of September 16, 2024.
+This list contains 35 records, and is current as of April 28, 2025.
 
 ----
-
 | *Title* | *CGP* | *Author* | *Date* | *SuDoc*
 |:-----------------|:-----------------|:-----------------|:-----------------|:-----------------
 | [Alaska Native Village Municipal Lands Restoration Act : report (to accompany S. 2615).](https://purl.fdlp.gov/GPO/gpo229849) | [1263061](https://catalog.gpo.gov/F/?func=direct&doc_number=1263061&local_base=GPO01PUB) | United States. Congress. Senate. Committee on Energy and Nat... | 2024 | Y 1.1/5:118-177
@@ -38,9 +37,8 @@ This list contains 36 records, and is current as of September 16, 2024.
 | [Summary: OST employee attempted to conceal purchase of tribal land /](https://purl.fdlp.gov/GPO/gpo224598) | [1263003](https://catalog.gpo.gov/F/?func=direct&doc_number=1263003&local_base=GPO01PUB) | United States. Department of the Interior. Office of Inspect... | 2018 | I 1.121:16-0821
 | [Summary: removal of funds from tribal school account did not violate any law or regulation /](https://purl.fdlp.gov/GPO/gpo224631) | [1263008](https://catalog.gpo.gov/F/?func=direct&doc_number=1263008&local_base=GPO01PUB) | United States. Department of the Interior. Office of Inspect... | 2018 | I 1.121:17-0535
 | [Summary: tribal member convicted of mail fraud for submitting a false claim to the OST /](https://purl.fdlp.gov/GPO/gpo224708) | [1263033](https://catalog.gpo.gov/F/?func=direct&doc_number=1263033&local_base=GPO01PUB) | United States. Department of the Interior. Office of Inspect... | 2018 | I 1.121:17-0228
-| [Training and capacity building activities of Climate Adaptation Science Centers for the benefit of tribal and indigenous...](https://purl.fdlp.gov/GPO/gpo224111) | [1261501](https://catalog.gpo.gov/F/?func=direct&doc_number=1261501&local_base=GPO01PUB) | Pfaeffle, Tori | 2022 | I 19.174:217
 | [Tribal food assistance : a comparison of the Food Distribution Program on Indian Reservations (FDPIR) and the Supplement...](https://purl.fdlp.gov/GPO/gpo229694) | [1262882](https://catalog.gpo.gov/F/?func=direct&doc_number=1262882&local_base=GPO01PUB) | Finegold, Kenneth | 2009 | A 93.74:58
 | [Tribal highway and public transportation programs /](https://purl.fdlp.gov/GPO/gpo229798) | [1262982](https://catalog.gpo.gov/F/?func=direct&doc_number=1262982&local_base=GPO01PUB) | Mallett, William | 2022 | LC 14.24:IF 12129/
 | [USDA Rural Utilities Service's support for tribes and other indigenous entities /](https://purl.fdlp.gov/GPO/gpo229479) | [1263886](https://catalog.gpo.gov/F/?func=direct&doc_number=1263886&local_base=GPO01PUB) | Benson, Lisa S. | 2024 | LC 14.23:R 48046/
-| [Vulnerability of Alaska Native tribes in the Chugach Region to selected climate and nonclimate stressors /](https://purl.fdlp.gov/GPO/gpo224355) | [1261533](https://catalog.gpo.gov/F/?func=direct&doc_number=1261533&local_base=GPO01PUB) | Morton, John M. | 2024 | A 13.88:PNW-GTR-1021
+| [Vulnerability of Alaska Native tribes in the Chugach Region to selected climate and nonclimate stressors /](https://purl.fdlp.gov/GPO/gpo224355) | [1261533](https://catalog.gpo.gov/F/?func=direct&doc_number=1261533&local_base=GPO01PUB) | Morton, John M., (Ecologist) | 2024 | A 13.88:PNW-GTR-1021
 | [Winnebago Land Transfer Act of 2023 : report (to accompany H.R. 1240) (including cost estimate of the Congressional Budg...](https://purl.fdlp.gov/GPO/gpo230147) | [1263527](https://catalog.gpo.gov/F/?func=direct&doc_number=1263527&local_base=GPO01PUB) | United States. Congress. Senate. Committee on Indian Affairs... | 2024 | Y 1.1/5:118-180
