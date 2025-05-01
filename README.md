@@ -27,21 +27,22 @@ To download the files, use the "Code" button in the right-hand section of this p
 
 | *Name*       | *No. of Records*       | *Last Update*       | *Record Formats*       | *Cataloging Dates*
 |:-----------------|:-----------------|:-----------------|:-----------------|:-----------------
-| [1950 Census](https://github.com/usgpo/cataloging-records/tree/main/1950_Census_Collection) | 22 | 1/24/2023 | Online | All
-| [Artificial Intelligence Subject-Based Resources](https://github.com/usgpo/cataloging-records/tree/main/Artificial_Intelligence_Subject-Based-Resources) | 260 | 9/16/2024 | Online | All
-| [American Indian, Alaska Native, and Native Hawaiian (AIANNH) Subject-Based Resources](https://github.com/usgpo/cataloging-records/tree/main/AIANNH_Subject-Based-Resources) | 132 | 9/16/2024 | Online | 6-9/2023
-| [Congressional Research Service Reports](https://github.com/usgpo/cataloging-records/tree/main/Congressional_Research_Service_Reports) | 10,677 | 9/16/2024 | Online | All
-| [COVID-19 and Coronavirus Resources](https://github.com/usgpo/cataloging-records/tree/main/COVID-19_Coronavirus) | 1,059 | 9/16/2024 | Online | All
-| [Department of Transportation Resources](https://github.com/usgpo/cataloging-records/tree/main/Department_of_Transportation) | 2,162 | 9/16/2024 | Online | All
-| [Historically Black Colleges and Universities (HBCU) Subject-Based Resources](https://github.com/usgpo/cataloging-records/tree/main/HBCU_Subject-Based-Resources) | 51 | 9/16/2024 | All | 6-9/2023
+| [1950 Census](https://github.com/usgpo/cataloging-records/tree/main/1950_Census_Collection) | 22 | 4/28/2025 | Online | All
+| [Artificial Intelligence Subject-Based Resources](https://github.com/usgpo/cataloging-records/tree/main/Artificial_Intelligence_Subject-Based-Resources) | 284 | 4/30/2025 | Online | All
+| [American Indian, Alaska Native, and Native Hawaiian (AIANNH) Subject-Based Resources](https://github.com/usgpo/cataloging-records/tree/main/AIANNH_Subject-Based-Resources) | 132 | 4/28/2025 | Online | 1-4/2025
+| [Congressional Research Service Reports](https://github.com/usgpo/cataloging-records/tree/main/Congressional_Research_Service_Reports) | 11,069 | 4/28/2025 | Online | All
+| [COVID-19 and Coronavirus Resources](https://github.com/usgpo/cataloging-records/tree/main/COVID-19_Coronavirus) | 1,063 | 4/28/2025 | Online | All
+| [Department of Transportation Resources](https://github.com/usgpo/cataloging-records/tree/main/Department_of_Transportation) | 2,197 | 4/28/2025 | Online | All
+| [Historically Black Colleges and Universities (HBCU) Subject-Based Resources](https://github.com/usgpo/cataloging-records/tree/main/HBCU_Subject-Based-Resources) | 49 | 4/28/2025 | All | 1-4/2025
 | [House Select Committee to Investigate the January 6th Attack on the United States Capitol Collection](https://github.com/usgpo/cataloging-records/tree/main/Jan6_Committee) | 42 | 1/12/2023 | Online | All
-| [Law Library of Congress Reports Collection](https://github.com/usgpo/cataloging-records/tree/main/Law_Library_Congress) | 3,930 | 9/16/2024 | Online | All
+| [Law Library of Congress Reports Collection](https://github.com/usgpo/cataloging-records/tree/main/Law_Library_Congress) | 3,930 | 4/30/2025 | Online | All
 | [Legal Publications Collection](https://github.com/usgpo/cataloging-records/tree/main/Legal_Publications_Collection) | 140 | 12/29/2023 | Online and Tangible | All
 | [National Institue of Standards and Technology (NIST) Collection](https://github.com/usgpo/cataloging-records/tree/main/NIST_Collection) | 8,897 | 11/2020 | Online | 2016
 | [Online FDLP Basic Collection](https://github.com/usgpo/cataloging-records/tree/main/Online_FDLP_Basic_Collection) | 23 | 3/2021 | Online | All
 | [Featured Publications Collection](https://github.com/usgpo/cataloging-records/tree/main/SPOT_Records) | 43 | 6/2024 | Online | All
 | [Updating Databases](https://github.com/usgpo/cataloging-records/tree/main/Updating_Databases) | 226 | 6/2024 | Online | All
-| **Total Number of Records** | **27,664**
+| **Total Number of Records** | **28,117** |
+
 ------------
 
 ## Retired Collections
@@ -59,7 +60,9 @@ Please check the list to see if the collections are available in another reposit
 | CGP MARC Record Sets | 22,176 | [Catalog of U.S. Government Publications (CGP) Records Maintenance Files](https://github.com/usgpo/cataloging-records-CGP-maintenance-files) | All | Previous six months
 | CGP Records with Updated PURLs | 170,501 | None | Online | Up to 10/31/2020
 | Online Version Records without Item Numbers | 4,959 | [Catalog of U.S. Government Publications (CGP) Records Maintenance Files](https://github.com/usgpo/cataloging-records-CGP-maintenance-files) | Online | All
+
 ------------
+
 ## Other LSCM Repositories
 
 LSCM develops and maintains other repositories:
@@ -70,6 +73,7 @@ LSCM develops and maintains other repositories:
 - [CGP Records Maintenance Files](https://github.com/usgpo/cataloging-records-CGP-maintenance-files)
 - [U.S. Congressional Serial Set Project (MARC UTF-8)](https://github.com/usgpo/cataloging-records-serial-set-utf8)
 - [U.S. Congressional Serial Set Project (MARC XML)](https://github.com/usgpo/cataloging-records-serial-set-marcxml)
+
 ------------
 
 ## Repository History and Versions
