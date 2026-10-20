@@ -41,7 +41,8 @@ To download the files, use the "Code" button in the right-hand section of this p
 | [Online FDLP Basic Collection](https://github.com/usgpo/cataloging-records/tree/main/Online_FDLP_Basic_Collection) | 23 | 3/2021 | Online | All
 | [Featured Publications Collection](https://github.com/usgpo/cataloging-records/tree/main/SPOT_Records) | 43 | 6/2024 | Online | All
 | [Updating Databases](https://github.com/usgpo/cataloging-records/tree/main/Updating_Databases) | 226 | 6/2024 | Online | All
-| **Total Number of Records** | **29,102** |
+| [Congress.gov Policy Areas Terms](https://github.com/usgpo/cataloging-records/tree/main/Congress.gov_Policy_Areas_Terms) | 23,310 | 10/2026 | Online and Tangible | All
+| **Total Number of Records** | **52,412** |
 
 ------------
 
